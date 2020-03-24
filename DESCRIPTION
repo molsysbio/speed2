@@ -1,0 +1,26 @@
+Package: speed2
+Type: Package
+Title: Signalling Pathway Gene Signatures
+Version: 0.1.2
+Author: Mattias Rydenfelt
+Maintainer: Nils Bluethgen <nils.bluethgen@charite.de>
+Description: A signaling pathway enrichment analysis tool with pathway
+    signatures derived from a large number of manually curated pathway 
+    perturbation experiments across many different cell types in human cells.
+    Genes are scored based on causal influences of pathway perturbations as 
+    opposed to pathway memberships.
+License: GPL-3
+Depends: 
+    R (>= 3.5),
+    ggplot2,
+    cowplot
+Imports:
+    dplyr,
+    tibble,
+    magrittr,
+    scales
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.0

@@ -1,0 +1,721 @@
+p_id	e_id	cell_line	modification	effect	time	comment	stimuli	controls
+Estrogen	GSE1045a	MDA-MB-231 breast cancer cells	treated with estradiol	activation	1 h	2 replicates each, part of time series	GSM16943,GSM18491	GSM18492,GSM18493
+Estrogen	GSE1045b	MDA-MB-231 breast cancer cells	treated with estradiol	activation	2 h	2 replicates each, part of time series	GSM16943,GSM18491	GSM18494,GSM18495
+Estrogen	GSE11467	MCF-7 cells	treated with 10 nM estradiol	activation	2 h	3 replicates each	GSM288961,GSM288962,GSM288963	GSM288964,GSM288965,GSM288966
+Estrogen	GSE11567a	SKBR3 cells	treated with 1µM estradiol	activation	1 h	3 replicates each, control transfection	GSM291218,GSM291219,GSM291220	GSM291224,GSM291225,GSM291226
+Estrogen	GSE11567b	SKBR3 cells	treated with 1o µM hydoxytamoxifen	unknown	1 h	3 replicates each, control transfection	GSM291218,GSM291219,GSM291220	GSM291221,GSM291222,GSM291223
+Estrogen	GSE11791	MCF-7 cells	treated with 100 nM estradiol	activation	6 h	3 replicates each	GSM298353,GSM298354,GSM298355	GSM298356,GSM298357,GSM298358
+Estrogen	GSE12261	human smooth muscle cells	treated with 3 µM 2-methoxyestradiol	activation	4 h	3 replicates each	GSM307999,GSM308000,GSM308001	GSM308002,GSM308003,GSM308004
+Estrogen	GSE13458	MCF-7 cells	treated with estradiol	activation	3 h	3 replicates each, contain luciferase knockdown	GSM339381,GSM339382,GSM339421	GSM339383,GSM339411,GSM339422
+Estrogen	GSE15717	MCF-7 cells	treated with estradiol	activation	4 h	3 replicates each	GSM393484,GSM393485,GSM393486	GSM393487,GSM393488,GSM393489
+Estrogen	GSE18592	MCF-7 ER+ breast cancer cells	treated with estrogen	activation	1 h	3 replicates each	GSM462338,GSM462339,GSM462340	GSM462332,GSM462333,GSM462334
+Estrogen	GSE20081	MCF-7 breast cancer cells	treated with estradiol	activation	6 h	3 replicates each, contain control siRNA	GSM503884,GSM503885,GSM503886	GSM503887,GSM503888,GSM503889
+Estrogen	GSE22012	MCF-7 breast cancer cells	treated with estradiol	activation	1 h	4 replicates each	GSM547196,GSM547197,GSM547198,GSM547199	GSM547161,GSM547162,GSM547163,GSM547176
+Estrogen	GSE22593a	MDA-MB-231ER+ breast cancer cells	treated with estradiol	activation	1 h	2 replicates each, part of time series	GSM560575,GSM560576	GSM560577,GSM560578
+Estrogen	GSE22593b	MDA-MB-231ER+ breast cancer cells	treated with estradiol	activation	2 h	2 replicates each, part of time series	GSM560575,GSM560576	GSM560579,GSM560580
+Estrogen	GSE22593c	MDA-MB-231ER+ breast cancer cells	treated with estradiol	activation	4 h	2 replicates each, part of time series	GSM560575,GSM560576	GSM560581,GSM560582
+Estrogen	GSE23445	MCF-7	treated with estradiol	activation	4 h	3 replicates each	GSM575323,GSM575324,GSM575325	GSM575326,GSM575327,GSM575328
+Estrogen	GSE23500	human normal breast cells	treated with estradiol	activation	6 h	3 replicates each	GSM575623,GSM575624,GSM575625	GSM575626,GSM575627,GSM575628
+Estrogen	GSE23610	MCF-7 breast cancer cells	treated with 0.1µM estradiol	activation	6 h	3 replicates each	GSM578941,GSM578942,GSM578943	GSM578944,GSM578945,GSM578946
+Estrogen	GSE24592	MCF-7 breast cancer cells	treated with 10nM estradiol	activation	4 h	2-3 replicates each, contain control siRNA	GSM606107,GSM606108,GSM606109	GSM606110,GSM606111,GSM606112
+Estrogen	GSE25314a	MCF-7 breast cancer cells	treated with 100nM estrogen	activation	6 h	4 replicates each, different treatments	GSM622757,GSM622761,GSM622765,GSM622769	GSM622758,GSM622762,GSM622766,GSM622770
+Estrogen	GSE25314b	MCF-7 breast cancer cells	treated with 1 µM tamoxifen	unknown	6 h	4 replicates each, different treatments	GSM622757,GSM622761,GSM622765,GSM622769	GSM622760,GSM622764,GSM622768,GSM622772
+Estrogen	GSE25315	MCF-7	treated with 100nM estrogen	activation	6 h	3 replicates each, contain control siRNA	GSM622773,GSM622777,GSM622781	GSM622775,GSM622779,GSM622783
+Estrogen	GSE26459a	MCF-7 estrogen sensitive breast cancer cells	treated with estrogen	activation	4 h	3 replicates each	GSM649484,GSM649485,GSM649486	GSM649487,GSM649488,GSM649489
+Estrogen	GSE26459b	MCF-7 estrogen resistant breast cancer cells	treated with estrogen	activation	4 h	3 replicates each	GSM649496,GSM649497,GSM649498	GSM649499,GSM649500,GSM649501
+Estrogen	GSE26834Est	MCF-7 breast cancer cells	treated with estradiol	activation	3 h	2-3 replicates each	GSM659805,GSM659806	GSM659807,GSM659808,GSM659809
+Estrogen	GSE28006	MCF-7 breast cancer cell line	treated with estradiol	activation	3 h	2 replicates each, contain siControl RNA	GSM692735,GSM692739	GSM692736,GSM692740
+Estrogen	GSE28645	LY2 breast cancer cell line	treated with tamoxifen	inhibition	2 h	4 replicates each, contain control siRNA, tamoxifen acts as antagonist in breast cell lines	GSM709770,GSM709773,GSM709774,GSM709776	GSM709764,GSM709766,GSM709768,GSM709777
+Estrogen	GSE3013a	endometrial epithelial cells	treated with estradiol	activation	3 h	2 replicates each on different platforms, different treatments, different tumor stages	GSM64885	GSM65278
+Estrogen	GSE3013b	endometrial epithelial cells	treated with estradiol	activation	3 h	2 replicates each on different platforms, different treatments, different tumor stages	GSM65277	GSM65279
+Estrogen	GSE3013c	endometrial epithelial cells	treated with tamoxifen	unknown	3 h	2 replicates each on different platforms, different treatments, different tumor stages	GSM65277	GSM65281
+Estrogen	GSE3013d	endometrial epithelial cells	treated with tamoxifen	unknown	3 h	2 replicates each on different platforms, different treatments, different tumor stages	GSM64885	GSM65280
+Estrogen	GSE3013f	endometrial epithelial cells	treated with estradiol	activation	3 h	2 replicates each on different platforms, different treatments, different tumor stages	GSM65283	GSM65285
+Estrogen	GSE3013h	endometrial epithelial cells	treated with tamoxifen	unknown	3 h	2 replicates each on different platforms, different treatments, different tumor stages	GSM65282	GSM65286
+Estrogen	GSE3013i	endometrial epithelial cells	treated with estradiol	activation	3 h	2 replicates each on different platforms, different treatments, different tumor stages	GSM65288	GSM65290
+Estrogen	GSE3013j	endometrial epithelial cells	treated with estradiol	activation	3 h	2 replicates each on different platforms, different treatments, different tumor stages	GSM65289	GSM65291
+Estrogen	GSE3013k	endometrial epithelial cells	treated with tamoxifen	unknown	3 h	2 replicates each on different platforms, different treatments, different tumor stages	GSM65289	GSM65293
+Estrogen	GSE3013l	endometrial epithelial cells	treated with tamoxifen	unknown	3 h	2 replicates each on different platforms, different treatments, different tumor stages	GSM65288	GSM65292
+Estrogen	GSE30931	MCF-7 breast cancer cell line	treated with estrogen	activation	6 h	3 replicates each	GSM766676,GSM766677,GSM766678	GSM766679,GSM766680,GSM766681
+Estrogen	GSE35287a	endometrial fibroblasts	treated with E2	activation	6 h	1 replicate each, 4 donors	GSM865133	GSM865134
+Estrogen	GSE35287b	endometrial fibroblasts	treated with E2	activation	6 h	1 replicate each, 4 donors	GSM865143	GSM865154
+Estrogen	GSE35287c	endometrial fibroblasts	treated with E2	activation	6 h	1 replicate each, 4 donors	GSM865145	GSM865146
+Estrogen	GSE35287d	endometrial fibroblasts	treated with E2	activation	6 h	1 replicate each, 4 donors	GSM865173	GSM865204
+Estrogen	GSE3834a	MCF-7 cells	treated with 10 nM estradiol	activation	1 h	2 replicates each, different cell lines, part of time series	GSM87446,GSM87447	GSM87448
+Estrogen	GSE3834b	MCF-7 cells	treated with 10 nM estradiol	activation	2 h	2 replicates each, different cell lines, part of time series	GSM87446,GSM87447	GSM87449,GSM87450
+Estrogen	GSE3834c	MCF-7 cells	treated with 10 nM estradiol	activation	4 h	2 replicates each, different cell lines, part of time series	GSM87446,GSM87447	GSM87451,GSM87452
+Estrogen	GSE3834d	T47-D cells	treated with 10 nM estradiol	activation	1 h	2 replicates each, different cell lines, part of time series	GSM87495,GSM87496	GSM87497,GSM87498
+Estrogen	GSE3834e	T47-D cells	treated with 10 nM estradiol	activation	2 h	2 replicates each, different cell lines, part of time series	GSM87495,GSM87496	GSM87499,GSM87500
+Estrogen	GSE3834f	T47-D cells	treated with 10 nM estradiol	activation	4 h	2 replicates each, different cell lines, part of time series	GSM87495,GSM87496	GSM87501,GSM87502
+Estrogen	GSE3834g	BT-474 cells	treated with 10 nM estradiol	activation	2 h	2 replicates each, different cell lines, part of time series	GSM87509,GSM87510	GSM87511,GSM87512
+Estrogen	GSE3834h	BT-474 cells	treated with 10 nM estradiol	activation	4 h	2 replicates each, different cell lines, part of time series	GSM87509,GSM87510	GSM87513,GSM87514
+Estrogen	GSE5258Est	MCF-7 cells	treated with 10 nM estradiol	activation	6 h	1-2 replicates each	GSM119000,GSM118794	GSM118730
+Estrogen	GSE9936a	MCF-7 cells	treated with 6 nM estradiol	activation	4 h	3 replicates each, different treatments, contain control vectors	GSM251354,GSM251355,GSM251356	GSM251357,GSM251358,GSM251359
+Estrogen	GSE9936b	MCF-7 cells	treated with 6 nM genistein	activation	4 h	3 replicates each, different treatments, contain control vector	GSM251354,GSM251355,GSM251356	GSM251360,GSM251361,GSM251362
+Estrogen	GSE9936c	MCF-7 cells	treated with 300 nM genistein	activation	4 h	3 replicates each, different treatments, contain control vector	GSM251354,GSM251355,GSM251356	GSM251363,GSM251364
+H2O2	GSE21800a	4 lymphoid cell lines pooled	treated with 9 µM H2O2	activation	4 h	1 replicate each, time respective control	GSM542925	GSM542926
+H2O2	GSE21800b	4 lymphoid cell lines pooled	treated with 90 µM H2O2	activation	4 h	1 replicate each, time respective control	GSM542925	GSM542927
+H2O2	GSE21800c	4 lymphoid cell lines pooled	treated with 900 µM H2O2	activation	4 h	1 replicate each, time respective control	GSM542925	GSM542928
+H2O2	GSE22463a	PBMCs from >50 year old female	treated with H2O2	activation	3 h	1 replicate each, time series, 8 older individuals	GSM558027	GSM558035
+H2O2	GSE22463b	PBMCs from >50 year old female	treated with H2O2	activation	3 h	1 replicate each, time series, 8 older individuals	GSM558028	GSM558036
+H2O2	GSE22463c	PBMCs from >50 year old female	treated with H2O2	activation	3 h	1 replicate each, time series, 8 older individuals	GSM558029	GSM558037
+H2O2	GSE22463d	PBMCs from >50 year old female	treated with H2O2	activation	3 h	1 replicate each, time series, 8 older individuals	GSM558030	GSM558038
+H2O2	GSE22463e	PBMCs from >50 year old female	treated with H2O2	activation	3 h	1 replicate each, time series, 8 older individuals	GSM558031	GSM558039
+H2O2	GSE22463f	PBMCs from >50 year old female	treated with H2O2	activation	3 h	1 replicate each, time series, 8 older individuals	GSM558032	GSM558040
+H2O2	GSE22463g	PBMCs from >50 year old female	treated with H2O2	activation	3 h	1 replicate each, time series, 8 older individuals	GSM558033	GSM558041
+H2O2	GSE22463h	PBMCs from >50 year old female	treated with H2O2	activation	3 h	1 replicate each, time series, 8 older individuals	GSM558034	GSM558042
+H2O2	GSE22463i	PBMCs from >50 year old female	treated with H2O2	activation	6 h	1 replicate each, time series, 8 older individuals	GSM558027	GSM558043
+H2O2	GSE22463j	PBMCs from >50 year old female	treated with H2O2	activation	6 h	1 replicate each, time series, 8 older individuals	GSM558028	GSM558044
+H2O2	GSE22463k	PBMCs from >50 year old female	treated with H2O2	activation	6 h	1 replicate each, time series, 8 older individuals	GSM558029	GSM558045
+H2O2	GSE22463l	PBMCs from >50 year old female	treated with H2O2	activation	6 h	1 replicate each, time series, 8 older individuals	GSM558030	GSM558046
+H2O2	GSE22463m	PBMCs from >50 year old female	treated with H2O2	activation	6 h	1 replicate each, time series, 8 older individuals	GSM558031	GSM558047
+H2O2	GSE22463n	PBMCs from >50 year old female	treated with H2O2	activation	6 h	1 replicate each, time series, 8 older individuals	GSM558032	GSM558048
+H2O2	GSE22463o	PBMCs from >50 year old female	treated with H2O2	activation	6 h	1 replicate each, time series, 8 older individuals	GSM558033	GSM558049
+H2O2	GSE22463p	PBMCs from >50 year old female	treated with H2O2	activation	6 h	1 replicate each, time series, 8 older individuals	GSM558034	GSM558050
+H2O2	GSE5339a	ATCC 16Lu ( human lung fibroblasts)	H2O2 treatment	activation	1 h	time series 1, 4, 12, 24 h	GSM120303,GSM120304,GSM120305	GSM120318,GSM120319,GSM120320
+H2O2	GSE5339b	ATCC 16Lu ( human lung fibroblasts)	H2O2 treatment	activation	4 h	time series 1, 4, 12, 24 h	GSM120309,GSM120310,GSM120311	GSM120324,GSM120325,GSM120326
+Hippo	GSE120512	Human Ewing Sarcoma cell line SK-N-MC	YAP siRNA	inhibition	72 h	4 replicates	GSM3402289,GSM3402290,GSM3402291,GSM3402292	GSM3402293,GSM3402294,GSM3402295,GSM3402296
+Hippo	GSE121732	Human heptocarcioma cell line HepG2	YAP siRNA	inhibition	24 h	3 replicates control, 2 siRNAs 3 replicates each combined (supposed to have good overlap according to paper, not shown!!!)	GSM3444835,GSM3444836,GSM3444837	GSM3444838,GSM3444839,GSM3444840,GSM3444841,GSM3444842,GSM3444843
+Hippo	GSE35004	Hep3B	YAP siRNA	inhibition	24h	3 replicates	GSM860172,GSM860173,GSM860174	GSM860178,GSM860179,GSM860180
+Hippo	GSE49384a	HaCaT	YAP+TAZ siRNA	inhibition	96h	2 replicates, control is LATS2/NF2 kd, two cell lines	GSM1198655,GSM1198656	GSM1198657,GSM1198658
+Hippo	GSE49384b	HepG2	YAP+TAZ siRNA	inhibition	96h	2 replicates, control is LATS2/NF2 kd, two cell lines	GSM1198661,GSM1198662	GSM1198663,GSM1198664
+Hippo	GSE49406	HEK293	YAP shRNA	inhibition	unspecified	3 replicates	GSM1198995,GSM1198996,GSM1198997	GSM1199001,GSM1199002,GSM1199003
+Hippo	GSE56445	Breast cancer cell MDA-MB-231-LM2-4	YAP+TAZ siRNA	inhibition	48h	3 replicates, in 24h-TGFß stimulation background	GSM1361645,GSM1361646,GSM1361647	GSM1361648,GSM1361649,GSM1361650
+Hippo	GSE57257	Ovarian cancer cell line OVCAR5	YAP siRNA	inhibition	56 h	3 replicates control, 2 siRNAs 3 replicates each combined	GSM1378039,GSM1378040,GSM1378041	GSM1378029,GSM1378030,GSM1378031,GSM1378027,GSM1378028,GSM1378033
+Hippo	GSE59229	MCF10A	YAP+TAZ siRNA	inhibition	48 h	4 replicates control, 2 siRNAs 4 replicates each combined	GSM1431010,GSM1431011,GSM1431012,GSM1431013	GSM1431014,GSM1431015,GSM1431016,GSM1431017,GSM1431018,GSM1431019,GSM1431020,GSM1431021
+Hippo	GSE60579a	mammary epithelial cell line MCF-10A	Tamoxifen-inducible YAP construct	activation	2 h	2 replicates, second time point as seperate experiment	GSM1482830,GSM1482836	GSM1482833,GSM1482839
+Hippo	GSE60579b	mammary epithelial cell line MCF-10A	Tamoxifen-inducible YAP construct	activation	6 h	2 replicates, second time point as seperate experiment	GSM1482831,GSM1482837	GSM1482834,GSM1482840
+Hippo	GSE61767	HuCCT1 cholangiocarcinoma cell line	YAP shRNA	inhibition	72 h	four replicates	GSM1513635,GSM1513636,GSM1513637,GSM1513638	GSM1513639,GSM1513640,GSM1513641,GSM1513642
+Hippo	GSE61989	Human umbilical vein endothelial cell	YAP siRNA	inhibition	30 h	4 replicates control, 2 siRNAs 4 replicates each combined (showed strong overlap in original paper)	GSM1517967,GSM1517968,GSM1517969,GSM1517970	GSM1517971,GSM1517972,GSM1517973,GSM1517974,GSM1517975,GSM1517976,GSM1517977,GSM1517978
+Hippo	GSE66082	MDA-MB-231 cells	YAP siRNA	inhibition	48 h	4 replicates control, 2 siRNAs 4 replicates each combined	GSM1614041,GSM1614042,GSM1614043,GSM1614044	GSM1614045,GSM1614046,GSM1614047,GSM1614048,GSM1614049,GSM1614050,GSM1614051,GSM1614052
+Hippo	GSE66949	Oral squamous cell carcinoma SCC2	YAP+TAZ siRNA	inhibition	48 h	3 replicates	GSM1634772,GSM1634773,GSM1634774	GSM1634781,GSM1634782,GSM1634783
+Hippo	GSE68599a	Melanoma cell line SKMEL28 made PLX4032 resistant	YAp/TAZ si RNA	inhibition	72 h	2 replicates, second cell line as seperate experiment	GSM1898757,GSM1898758	GSM1898759,GSM1898760
+Hippo	GSE68599b	Melanoma cell line WM3248 made PLX4032 resistant	YAp/TAZ si RNA	inhibition	72 h	2 replicates, second cell line as seperate experiment	GSM1898761,GSM1898762	GSM1898763,GSM1898764
+Hippo	GSE93400	Small cell lung cancer cell line SBC5	YAP siRNA	inhibition	48 h	no replicates, this cell line has no TAZ and therefore YAP kd will show better Hippo-like response than SBC3	GSM2452693	GSM2452694
+Hypoxia	GSE1056	Hep3B cells	treated with 1% oxygen hypoxia	activation	2 h	2 replicates each	GSM17082,GSM17083	GSM17088,GSM17089
+Hypoxia	GSE106959	medulloblastoma cell line D283-Med	treated with 1% oxygen	activation	6 h	3 replicates	GSM2858315,GSM2858319,GSM2858323	GSM2858316,GSM2858320,GSM2858324
+Hypoxia	GSE109233a	human adult pericyte cell cultures. Sub-vetricular zone (SVZ) pericytes from a temporal lobe epilepsy	treated with 0.5-0.7% oxygen	activation	2 h	4 replicates	GSM2935663,GSM2935664,GSM2935665,GSM2935666	GSM2935655,GSM2935656,GSM2935657,GSM2935658
+Hypoxia	GSE109233b	human adult pericyte cell cultures. Sub-vetricular zone (SVZ) pericytes from a temporal lobe epilepsy	treated with 0.5-0.7% oxygen	activation	6 h	3 replicates	GSM2935677,GSM2935678,GSM2935679	GSM2935671,GSM2935672,GSM2935673
+Hypoxia	GSE17188a	MDA-MB-231 LM2 cells	treated with 1% oxygen hypoxia	activation	6 h	2 replicates each, different cell lines	GSM429891,GSM429892	GSM429893,GSM429894
+Hypoxia	GSE17188b	MDA-MB-231 SCP2 cells	treated with 1% oxygen hypoxia	activation	6 h	2 replicates each, different cell lines	GSM429897,GSM429898	GSM429899,GSM429900
+Hypoxia	GSE19123	MCF-7 cells	treated with 1% oxygen hypoxia	activation	4 h	5 replicates each	GSM474352,GSM474353,GSM474354,GSM474355,GSM474356	GSM474367,GSM474368,GSM474369,GSM474370,GSM474371
+Hypoxia	GSE22469	Rhabdomyosarcoma cells (SJRH30)	treated with 1% oxygen	activation	6 h	2 replicates	GSM558109,GSM558110	GSM558111,GSM558112
+Hypoxia	GSE27813	MCF-7 cells	treated with 1% oxygen hypoxia	activation	6 h	2 replicates each, contain control shRNA	GSM686788,GSM686789	GSM686790,GSM686791
+Hypoxia	GSE28603a	SGBS adipocytes	treated with 1% oxygen hypoxia	activation	3 h	3 replicates each, part of time series	GSM707909,GSM707913,GSM707917	GSM707910,GSM707914,GSM707918
+Hypoxia	GSE28603b	SGBS adipocytes	treated with 1% oxygen hypoxia	activation	6 h	3 replicates each, part of time series	GSM707909,GSM707913,GSM707917	GSM707911,GSM707915,GSM707919
+Hypoxia	GSE30019a	MCF7	treated with 0.5% oxygen	activation	1 h	three replicates, time series	GSM742971,GSM742972,GSM742973	GSM742974,GSM742975,GSM742976
+Hypoxia	GSE30019b	MCF7	treated with 0.5% oxygen	activation	4 h	three replicates, time series	GSM742971,GSM742972,GSM742973	GSM742977,GSM742978,GSM742979
+Hypoxia	GSE30499	U2OS	treated with 0.1% oxygen	activation	3 h	no replicates	GSM756510	GSM756514
+Hypoxia	GSE33521	HeLa cells	treated with 1% oxygen hypoxia	activation	6 h	2 replicates each	GSM829385,GSM829386	GSM829387,GSM829388
+Hypoxia	GSE35819a	human embryonic stem cell HS401	treated with 4% oxygen	activation	2 h	no replicates, three cell lines	GSM875714	GSM875713
+Hypoxia	GSE35819b	human embryonic stem cell HS360	treated with 4% oxygen	activation	2 h	no replicates, three cell lines	GSM875720	GSM875719
+Hypoxia	GSE35819c	human embryonic stem cell H9	treated with 4% oxygen	activation	2 h	no replicates, three cell lines	GSM875726	GSM875725
+Hypoxia	GSE35932a	HUVEC	treated with 1% oxygen	activation	1 h	no replicates, time series	GSM877586	GSM921645
+Hypoxia	GSE35932b	HUVEC	treated with 1% oxygen	activation	4 h	no replicates, time series	GSM877586	GSM921647
+Hypoxia	GSE41491a	DU145	treated with 0% oxygen	activation	1 h	no replicate, several time points, several cell lines	GSM1018170	GSM1018171
+Hypoxia	GSE41491b	DU145	treated with 0% oxygen	activation	4 h	no replicate, several time points, several cell lines	GSM1018170	GSM1018173
+Hypoxia	GSE41491c	HT29	treated with 0% oxygen	activation	1 h	no replicate, several time points, several cell lines	GSM1018178	GSM1018179
+Hypoxia	GSE41491d	HT29	treated with 0% oxygen	activation	4 h	no replicate, several time points, several cell lines	GSM1018178	GSM1018181
+Hypoxia	GSE41491e	MCF7	treated with 0% oxygen	activation	1 h	no replicate, several time points, several cell lines	GSM1018186	GSM1018187
+Hypoxia	GSE41491f	MCF7	treated with 0% oxygen	activation	4 h	no replicate, several time points, several cell lines	GSM1018186	GSM1018189
+Hypoxia	GSE46263a	human umbilical vein endothelial cells (HUVEC)	treated with CoCl2 (chemically induced hypoxia)	activation	1 h	3 replicates	GSM1127793,GSM1127817,GSM1127839	GSM1127796,GSM1127818,GSM1127840
+Hypoxia	GSE46263b	human umbilical vein endothelial cells (HUVEC)	treated with CoCl2 (chemically induced hypoxia)	activation	3 h	3 replicates	GSM1127793,GSM1127817,GSM1127839	GSM1127797,GSM1127819,GSM1127841
+Hypoxia	GSE5258	MCF7 cells	treated with 0.1mM cobalt chloride	activation	6 h	3 replicates each, cobald cloride induces HIF1	GSM118799,GSM118848,GSM118922	GSM118850,GSM118855,GSM118928
+Hypoxia	GSE59729a	hepatocarcinoma cell line Huh-7	treated with 1% oxygen	activation	3 h	2-3 replicates, second time point included	GSM1444515,GSM1444516	GSM1444517,GSM1444518,GSM1444519
+Hypoxia	GSE59729b	hepatocarcinoma cell line Huh-7	treated with 1% oxygen	activation	6 h	2 replicates, second time point included	GSM1444515,GSM1444516	GSM1444523,GSM1444524
+Hypoxia	GSE60432	Human placental trophoblasts	treated with 0% oxygen	activation	6 h	3 replicates (from 3 donors probably?)	GSM1479785,GSM1479801,GSM1479812	GSM1479786,GSM1479802,GSM1479813
+Hypoxia	GSE60729	human monocyte-derived dendritic cells	treated with 1% oxygen	activation	6 h	3 replicates	GSM1486351,GSM1486352,GSM1486353	GSM1486363,GSM1486364,GSM1486365
+Hypoxia	GSE65271	human placenta cell line hHTR8/SVneo	treated with 1% oxygen	activation	6 h	3-4 replicates	GSM1591517,GSM1591518,GSM1591519,GSM1591520	GSM1591514,GSM1591515,GSM1591516
+Hypoxia	GSE71967	Human Umbilical Vein Endothelial Cells (HUVEC)	treated with 2% oxygen	activation	4 h	no replicate	GSM1848696	GSM1848683
+Hypoxia	GSE79069	human cervical adenocarcinoma HeLa cells	treated with 1% oxygen	activation	6 h	3 replicates	GSM2084870,GSM2084871,GSM2084872	GSM2084873,GSM2084874,GSM2084875
+Hypoxia	GSE89891	human breast cancer cell line MCF7	treated with 1% oxygen	activation	2 h	3 replicates	GSM2392640,GSM2392641,GSM2392643	GSM2392649,GSM2392650,GSM2392651
+IL-1	GSE22325	HUVECs	treated with 100U IL-1b	activation	4 h	1 replicate each	GSM555847	GSM555851
+IL-1	GSE32390a	skin fibroblasts	treated with 20 ng/ml IL-1b	activation	4 h	1 replicate each, 3 donors	GSM801681	GSM801669
+IL-1	GSE32390b	skin fibroblasts	treated with 20 ng/ml IL-1b	activation	4 h	1 replicate each, 3 donors	GSM801680	GSM801678
+IL-1	GSE32390c	skin fibroblasts	treated with 20 ng/ml IL-1b	activation	4 h	1 replicate each, 3 donors	GSM801677	GSM801670
+IL-1	GSE8515IL1	Human monocyte-derived macrophages	with IL-1 (15 ng/ml)	activation	4 h	5 replicates each	GSM211500,GSM211501,GSM211502,GSM211503,GSM211504	GSM211505,GSM211506,GSM211507,GSM211508,GSM211509
+IL-1	GSE9120a	Cultured epidermal keratinocytes	treated with 25 ng/ml human recombinant IL-1	activation	1 h		GSM230880	GSM230879
+IL-1	GSE9120b	Cultured epidermal keratinocytes	treated with 25 ng/ml human recombinant IL-1	activation	4 h		GSM230881	GSM230882
+IL-1	GSE973a	HUVEC	treated with 100 U/ml human IL-1	activation	0.5 h	time series 3 time points	GSM15389	GSM15390
+IL-1	GSE973b	HUVEC	treated with 100 U/ml human IL-1	activation	1 h	time series 3 time points	GSM15389	GSM15391
+IL-1	GSE973c	HUVEC	treated with 100 U/ml human IL-1	activation	2.5 h	time series 3 time points	GSM15389	GSM15392
+Insulin	GSE21727	trabecular bone cells	treated with IGF-1	activation	2 h	3 replicates each	GSM542107,GSM542108,GSM542109	GSM542098,GSM542099,GSM542100
+Insulin	GSE21989a	HUVECs	treated with Insulin	activation	0.66 h	1 replicate each, part of time series	GSM546910	GSM546915
+Insulin	GSE21989b	HUVECs	treated with Insulin	activation	1.66 h	1 replicate each, part of time series	GSM546911	GSM546916
+Insulin	GSE21989c	HUVECs	treated with Insulin	activation	3.33 h	1 replicate each, part of time series	GSM546912	GSM546917
+Insulin	GSE21989d	HUVECs	treated with Insulin	activation	5.66 h	1 replicate each, part of time series	GSM546913	GSM546918
+Insulin	GSE24422a	hMSC adipocytes, mixed fraction	treated with 20 nM Insulin	activation	5 h	2 replicates each, different fractions of cells	GSM601621,GSM601622	GSM601623,GSM601624
+Insulin	GSE24422b	hMSC adipocytes, adipocyte fraction	treated with 20 nM Insulin	activation	5 h	2 replicates each, different fractions of cells	GSM601629,GSM601630	GSM601631,GSM601632
+Insulin	GSE24422c	hMSC adipocytes, stromal fraction	treated with 20 nM Insulin	activation	5 h	2 replicates each, different fractions of cells	GSM601637,GSM601638	GSM601639,GSM601640
+Insulin	GSE26834	MCF-7 breast cancer cells	treated with IGF-1	activation	3 h	2 replicates for control, 3 replicates for treatment	GSM659805,GSM659806	GSM659810,GSM659811,GSM659812
+Insulin	GSE30524	RPMI 8266 cells	treated with 0.375µM picropodophyllin, IGF1R inhibitor	inhibition	6 h	1 replicate each	GSM756954	GSM756956
+Insulin	GSE9105a	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	0.5 h	1 replicate each, part of time series, 12 donors	GSM230429	GSM230430
+Insulin	GSE9105b	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	4 h	1 replicate each, part of time series, 12 donors	GSM230429	GSM230431
+Insulin	GSE9105c	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	0.5 h	1 replicate each, part of time series, 12 donors	GSM230432	GSM230433
+Insulin	GSE9105d	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	4 h	1 replicate each, part of time series, 12 donors	GSM230432	GSM230434
+Insulin	GSE9105e	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	0.5 h	1 replicate each, part of time series, 12 donors	GSM230435	GSM230436
+Insulin	GSE9105f	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	4 h	1 replicate each, part of time series, 12 donors	GSM230435	GSM230437
+Insulin	GSE9105g	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	4 h	1 replicate each, part of time series, 12 donors	GSM230438	GSM230440
+Insulin	GSE9105h	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	0.5 h	1 replicate each, part of time series, 12 donors	GSM230438	GSM230439
+Insulin	GSE9105i	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	0.5 h	1 replicate each, part of time series, 12 donors	GSM230441	GSM230442
+Insulin	GSE9105j	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	4 h	1 replicate each, part of time series, 12 donors	GSM230441	GSM230443
+Insulin	GSE9105k	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	0.5 h	1 replicate each, part of time series, 12 donors	GSM230444	GSM230445
+Insulin	GSE9105l	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	4 h	1 replicate each, part of time series, 12 donors	GSM230444	GSM230446
+Insulin	GSE9105m	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	4 h	1 replicate each, part of time series, 12 donors	GSM230447	GSM230449
+Insulin	GSE9105n	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	0.5 h	1 replicate each, part of time series, 12 donors	GSM230447	GSM230448
+Insulin	GSE9105o	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	0.5 h	1 replicate each, part of time series, 12 donors	GSM230450	GSM230451
+Insulin	GSE9105p	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	4 h	1 replicate each, part of time series, 12 donors	GSM230450	GSM230452
+Insulin	GSE9105q	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	4 h	1 replicate each, part of time series, 12 donors	GSM230453	GSM230455
+Insulin	GSE9105r	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	0.5 h	1 replicate each, part of time series, 12 donors	GSM230453	GSM230454
+Insulin	GSE9105s	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	0.5 h	1 replicate each, part of time series, 12 donors	GSM230456	GSM230457
+Insulin	GSE9105t	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	4 h	1 replicate each, part of time series, 12 donors	GSM230456	GSM230458
+Insulin	GSE9105u	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	4 h	1 replicate each, part of time series, 12 donors	GSM230459	GSM230461
+Insulin	GSE9105v	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	0.5 h	1 replicate each, part of time series, 12 donors	GSM230459	GSM230460
+Insulin	GSE9105w	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	0.5 h	1 replicate each, part of time series, 12 donors	GSM230462	GSM230463
+Insulin	GSE9105x	primary muscle cells	treated with euglycemic hyperinsulinemic clamp	activation	4 h	1 replicate each, part of time series, 12 donors	GSM230462	GSM230464
+JAK-STAT	GSE10685	skeletal muscle biopsies	patients treated with IL-6 infusion	activation	3 h	3 donors	GSM269808,GSM269811,GSM269932	GSM269809,GSM269834,GSM269933
+JAK-STAT	GSE12664	A549 cells	treated with IFNb	activation	6 h	3 replicates	GSM317891,GSM317903,GSM317915	GSM317927,GSM317928,GSM317929
+JAK-STAT	GSE1432a	primary human microglial cells Y20	treated with IFN-gamma (respective time control)	activation	1 h		GSM26928	GSM23899
+JAK-STAT	GSE1432b	primary human microglial cells B18	treated with IFN-gamma (respective time control)	activation	1 h		GSM26926	GSM23887
+JAK-STAT	GSE1432c	primary human microglial cells W	treated with IFN-gamma (respective time control)	activation	1 h		GSM26927	GSM23895
+JAK-STAT	GSE1432d	primary human microglial cells O	treated with IFN-gamma (respective time control)	activation	1 h		GSM26925	GSM23893
+JAK-STAT	GSE14632a	HepG2 hepatocarcinoma cell line	treated with 20ng/ml IL-6	activation	1 h	2 replicates, part of time series, 4h serum starvation before treatment	GSM636652,GSM636653	GSM636654,GSM636655
+JAK-STAT	GSE14632b	HepG2 hepatocarcinoma cell line	treated with 20ng/ml IL-6	activation	2 h	2 replicates, part of time series, 4h serum starvation before treatment	GSM636652,GSM636653	GSM636656,GSM636657
+JAK-STAT	GSE14632c	HepG2 hepatocarcinoma cell line	treated with 20ng/ml IL-6	activation	4 h	2 replicates, part of time series, 4h serum starvation before treatment	GSM636652,GSM636653	GSM636658,GSM636659
+JAK-STAT	GSE15743a	primary NK cells	treated with 1 ng/ml IFNa-2b	activation	6 h	1 replicate, 2 concentrations	GSM394093	GSM394094
+JAK-STAT	GSE15743b	primary NK cells	treated with 100 ng/ml IFNa-2b	activation	6 h	1 replicate, 2 concentrations	GSM394093	GSM394095
+JAK-STAT	GSE16251a	primary PBMCs	treated with IFNa	activation	4 h	1 replicate, time respective control, part of time	GSM409172	GSM409178
+JAK-STAT	GSE16251b	primary PBMCs	treated with IFNa	activation	0.5 h	1 replicate, time respective control, part of time	GSM409180	GSM409181
+JAK-STAT	GSE16251c	primary PBMCs	treated with IIL12	activation	0.5 h	1 replicate, time respective control, part of time	GSM409180	GSM409183
+JAK-STAT	GSE16251d	primary PBMCs	treated with IIL12	activation	1 h	1 replicate, time respective control, part of time	GSM409182	GSM409157
+JAK-STAT	GSE16251e	primary PBMCs	treated with IIL12	activation	4 h	1 replicate, time respective control, part of time	GSM409178	GSM409152
+JAK-STAT	GSE16252a	primary PBMCs	treated with 0.6 pM IFNg	activation	0.5 h	1 replicate, time respective control, part of time and concentration series	GSM409200	GSM409188
+JAK-STAT	GSE16252b	primary PBMCs	treated with 0.6 pM IFNg	activation	1 h	1 replicate, time respective control, part of time and concentration series	GSM409199	GSM409190
+JAK-STAT	GSE16252c	primary PBMCs	treated with 0.6 pM IFNg	activation	2 h	1 replicate, time respective control, part of time and concentration series	GSM409194	GSM409187
+JAK-STAT	GSE16252d	primary PBMCs	treated with 0.6 pM IFNg	activation	4 h	1 replicate, time respective control, part of time and concentration series	GSM409197	GSM409213
+JAK-STAT	GSE16252e	primary PBMCs	treated with 60 pM IFNg	activation	0.5 h	1 replicate, time respective control, part of time and concentration series	GSM409200	GSM409211
+JAK-STAT	GSE16252f	primary PBMCs	treated with 60 pM IFNg	activation	1 h	1 replicate, time respective control, part of time and concentration series	GSM409199	GSM409209
+JAK-STAT	GSE16252g	primary PBMCs	treated with 60 pM IFNg	activation	2 h	1 replicate, time respective control, part of time and concentration series	GSM409194	GSM409212
+JAK-STAT	GSE16252h	primary PBMCs	treated with 60 pM IFNg	activation	4 h	1 replicate, time respective control, part of time and concentration series	GSM409197	GSM409208
+JAK-STAT	GSE16252i	primary PBMCs	treated with 0.006 pM IFNg	activation	0.5 h	1 replicate, time respective control, part of time and concentration series	GSM409200	GSM409193
+JAK-STAT	GSE16252j	primary PBMCs	treated with 0.006 pM IFNg	activation	1 h	1 replicate, time respective control, part of time and concentration series	GSM409199	GSM409191
+JAK-STAT	GSE16252k	primary PBMCs	treated with 0.006 pM IFNg	activation	2 h	1 replicate, time respective control, part of time and concentration series	GSM409194	GSM409201
+JAK-STAT	GSE16252l	primary PBMCs	treated with 0.006 pM IFNg	activation	4 h	1 replicate, time respective control, part of time and concentration series	GSM409197	GSM409214
+JAK-STAT	GSE16253a	primary monocytes	treated with 0.6 pM IFNg	activation	0.5 h	1 replicate, time respective control, part of time series, different cell lines	GSM409215	GSM409267
+JAK-STAT	GSE16253b	primary monocytes	treated with 0.6 pM IFNg	activation	4 h	1 replicate, time respective control, part of time series, different cell lines	GSM409228	GSM409257
+JAK-STAT	GSE16253c	primary monocytes	treated with 0.6 pM IFNg	activation	1 h	1 replicate, time respective control, part of time series, different cell lines	GSM409269	GSM409275
+JAK-STAT	GSE16253d	primary B cells	treated with 0.6 pM IFNg	activation	0.5 h	1 replicate, time respective control, part of time series, different cell lines	GSM409250	GSM409219
+JAK-STAT	GSE16253e	primary B cells	treated with 0.6 pM IFNg	activation	1 h	1 replicate, time respective control, part of time series, different cell lines	GSM409251	GSM409290
+JAK-STAT	GSE16253f	primary B cells	treated with 0.6 pM IFNg	activation	4 h	1 replicate, time respective control, part of time series, different cell lines	GSM409234	GSM409279
+JAK-STAT	GSE16253g	primary CD4+ T cells	treated with 0.6 pM IFNg	activation	0.5 h	1 replicate, time respective control, part of time series, different cell lines	GSM409237	GSM409276
+JAK-STAT	GSE16253h	primary CD4+ T cells	treated with 0.6 pM IFNg	activation	1 h	1 replicate, time respective control, part of time series, different cell lines	GSM409261	GSM409264
+JAK-STAT	GSE16253j	primary NK cells	treated with 0.6 pM IFNg	activation	4 h	1 replicate, time respective control, part of time series, different cell lines	GSM409218	GSM409271
+JAK-STAT	GSE16253k	primary NK cells	treated with 0.6 pM IFNg	activation	1 h	1 replicate, time respective control, part of time series, different cell lines	GSM409223	GSM409273
+JAK-STAT	GSE16253l	primary NK cells	treated with 0.6 pM IFNg	activation	0.5 h	1 replicate, time respective control, part of time series, different cell lines	GSM409235	GSM409274
+JAK-STAT	GSE16253m	primary CD8+ T cells	treated with 0.6 pM IFNg	activation	0.5 h	1 replicate, time respective control, part of time series, different cell lines	GSM409241	GSM409281
+JAK-STAT	GSE16253n	primary CD8+ T cells	treated with 0.6 pM IFNg	activation	1 h	1 replicate, time respective control, part of time series, different cell lines	GSM409256	GSM409243
+JAK-STAT	GSE16253o	primary CD8+ T cells	treated with 0.6 pM IFNg	activation	4 h	1 replicate, time respective control, part of time series, different cell lines	GSM409249	GSM409282
+JAK-STAT	GSE16385	primary macrophage	treated with IL-4	activation	4 h	1 replicate, respective time control	GSM411184	GSM411186
+JAK-STAT	GSE16450a	immature BE(2)-C neuroblastoma cell line	treated with IFNa-A/D	activation	6 h	3 replicates	GSM413549,GSM413550,GSM413551	GSM413552,GSM413553,GSM413554
+JAK-STAT	GSE16450b	mature BE(2)-C neuroblastoma cell line	treated with IFNa-A/D	activation	6 h	3 replicates	GSM413558,GSM413559,GSM413560	GSM413561,GSM413562,GSM413563
+JAK-STAT	GSE16755	macrophages	treated with IFNa	activation	unknown	3 replicates	GSM419987,GSM419988,GSM419989	GSM419990,GSM419991,GSM419992
+JAK-STAT	GSE19082a	HMEC (human microvascular endothelial cells)	treated with IFN-gamma 1 ng/ml (respective time control)	activation	3 h	4 replicates each two different treatments	GSM472434,GSM472438,GSM472442,GSM472446	GSM472436,GSM472440,GSM472444,GSM472448
+JAK-STAT	GSE19082b	HMEC (human microvascular endothelial cells)	treated with IL-6 50 U/ml (respective time control)	activation	1 h	4 replicates each, two different treatments	GSM472434,GSM472438,GSM472442,GSM472446	GSM472435,GSM472439,GSM472443,GSM472447
+JAK-STAT	GSE1925a	primary human CD14+ macrophages Pool1	treated with IFN-gamma	activation	3 h		GSM34595	GSM34596
+JAK-STAT	GSE1925b	primary human CD14+ macrophages Pool2	treated with IFN-gamma	activation	3 h		GSM34601	GSM34602
+JAK-STAT	GSE1925c	primary human CD14+ macrophages Pool3	treated with IFN-gamma	activation	3 h		GSM34607	GSM34608
+JAK-STAT	GSE20198a	activated cord blood CD4+ T cells	treated with IFNa	activation	2 h	1 replicate, part of time series	GSM506700	GSM506701
+JAK-STAT	GSE20198b	activated cord blood CD4+ T cells	treated with IFNa	activation	6 h	1 replicate, part of time series	GSM506702	GSM506703
+JAK-STAT	GSE20272a	SKOV-3 ovarian cancer cell line	treated with IL-6	activation	1 h	1 replicate, 2 different cell lines	GSM508291	GSM508292
+JAK-STAT	GSE20272b	Caov-3 ovarian cancer cell line	treated with IL-6	activation	1 h	1 replicate, 2 different cell lines	GSM508294	GSM508295
+JAK-STAT	GSE21760a	HeLa cells	treated with IFNg	activation	2 h	1 replicate, part of time series	GSM542389	GSM542390
+JAK-STAT	GSE21760b	HeLa cells	treated with IFNg	activation	4 h	1 replicate, part of time series	GSM542389	GSM542391
+JAK-STAT	GSE21760c	HeLa cells	treated with IFNg	activation	6 h	1 replicate, part of time series	GSM542389	GSM542392
+JAK-STAT	GSE22325a	HUVECs	treated with 100 U/ml IL-3	activation	4 h	1 replicate each, time resolved control	GSM555847	GSM555854
+JAK-STAT	GSE22325b	HUVECs	treated with 100 U/ml IL-6	activation	4 h	1 replicate each, time resolved control	GSM555847	GSM555858
+JAK-STAT	GSE23307a	primary B cells	treated with IFN-b	activation	3 h	1 replicate each, respective time control, 2 individuals	GSM571900	GSM571899
+JAK-STAT	GSE23307b	primary B cells	treated with IFN-b	activation	3 h	1 replicate each, respective time control, 2 individuals	GSM571904	GSM571903
+JAK-STAT	GSE23307c	primary monocytes	treated with IFN-b	activation	3 h	1 replicate each, respective time control, 2 individuals	GSM571902	GSM571901
+JAK-STAT	GSE23591a	L1236 lymphoma derived cell line	treated with 40 ng/ml IL-13	activation	0.5 h	1 replicate, time resolved controls, part of time series	GSM578575	GSM578576
+JAK-STAT	GSE23591b	L1236 lymphoma derived cell line	treated with 40 ng/ml IL-13	activation	1 h	1 replicate, time resolved controls, part of time series	GSM578577	GSM578578
+JAK-STAT	GSE23591c	L1236 lymphoma derived cell line	treated with 40 ng/ml IL-13	activation	1.5 h	1 replicate, time resolved controls, part of time series	GSM578579	GSM578580
+JAK-STAT	GSE23591d	L1236 lymphoma derived cell line	treated with 40 ng/ml IL-13	activation	2 h	1 replicate, time resolved controls, part of time series	GSM578581	GSM578582
+JAK-STAT	GSE23591e	L1236 lymphoma derived cell line	treated with 40 ng/ml IL-13	activation	3 h	1 replicate, time resolved controls, part of time series	GSM578583	GSM578584
+JAK-STAT	GSE23591f	L1236 lymphoma derived cell line	treated with 40 ng/ml IL-13	activation	4 h	1 replicate, time resolved controls, part of time series	GSM578585	GSM578586
+JAK-STAT	GSE23591g	L1236 lymphoma derived cell line	treated with 40 ng/ml IL-13	activation	6 h	1 replicate, time resolved controls, part of time series	GSM578587	GSM578588
+JAK-STAT	GSE23591h	MedB1 lymphoma derived cell line	treated with 20 ng/ml IL-13	activation	0.5 h	1 replicate, time resolved controls, part of time series	GSM578595	GSM578596
+JAK-STAT	GSE23591i	MedB1 lymphoma derived cell line	treated with 20 ng/ml IL-13	activation	1 h	1 replicate, time resolved controls, part of time series	GSM578597	GSM578598
+JAK-STAT	GSE23591j	MedB1 lymphoma derived cell line	treated with 20 ng/ml IL-13	activation	1.5 h	1 replicate, time resolved controls, part of time series	GSM578599	GSM578600
+JAK-STAT	GSE23591k	MedB1 lymphoma derived cell line	treated with 20 ng/ml IL-13	activation	2 h	1 replicate, time resolved controls, part of time series	GSM578601	GSM578602
+JAK-STAT	GSE23591l	MedB1 lymphoma derived cell line	treated with 20 ng/ml IL-13	activation	3 h	1 replicate, time resolved controls, part of time series	GSM578603	GSM578604
+JAK-STAT	GSE23591m	MedB1 lymphoma derived cell line	treated with 20 ng/ml IL-13	activation	4 h	1 replicate, time resolved controls, part of time series	GSM578605	GSM578606
+JAK-STAT	GSE23591n	MedB1 lymphoma derived cell line	treated with 20 ng/ml IL-13	activation	6 h	1 replicate, time resolved controls, part of time series	GSM578607	GSM578608
+JAK-STAT	GSE24403a	dermal fibroblasts	treated with 50 nM IL-13	activation	2 h	3 replicates control, 1 replicate treatment, part of time series	GSM601439,GSM601440,GSM601441	GSM601442
+JAK-STAT	GSE24403b	dermal fibroblasts	treated with 50 nM IL-13	activation	4 h	3 replicates control, 1 replicate treatment, part of time series	GSM601439,GSM601440,GSM601441	GSM601443
+JAK-STAT	GSE24409a	dermal fibroblasts	treated with 50 nM IL-4	activation	2 h	3 replicates control, 1 replicate treatment, part of time series	GSM601484,GSM601485,GSM601486	GSM601487
+JAK-STAT	GSE24409b	dermal fibroblasts	treated with 50 nM IL-4	activation	4 h	3 replicates control, 1 replicate treatment, part of time series	GSM601484,GSM601485,GSM601486	GSM601488
+JAK-STAT	GSE26949	peripheral blood EPCs/CACs	treated with IFNa	activation	6 h	6 replicates each	GSM663476,GSM663477,GSM663478,GSM663479,GSM663480,GSM663481	GSM663482,GSM663483,GSM663484,GSM663485,GSM663486,GSM663487
+JAK-STAT	GSE26951	bone marrow EPCs	treated with IFNa	activation	6 h	5 replicates each	GSM663500,GSM663501,GSM663502,GSM663503,GSM663504	GSM663505,GSM663506,GSM663507,GSM663508,GSM663509
+JAK-STAT	GSE31193	primary hepatocytes	treated with 10 U/ml IFN-a	activation	6 h	3 replicates	GSM773317,GSM773318,GSM773319	GSM773323,GSM773324,GSM773325
+JAK-STAT	GSE31264	primary hepatocytes	treated with 10 U/ml IFN-a	activation	6 h	1 replicate	GSM774851	GSM774852
+JAK-STAT	GSE3183	A549 (Human bronchial cell line)	treated with IL-13	activation	4 h	3 replicates each	GSM47468,GSM47462,GSM47472	GSM47461,GSM47464,GSM47473
+JAK-STAT	GSE33264a	Calu-3 cells	treated with 1000 U/ml IFNa	activation	3 h	3 replicates each, part of time series with 2 treatment conditions	GSM823062,GSM823063,GSM823064	GSM823038,GSM823039,GSM823040
+JAK-STAT	GSE33264b	Calu-3 cells	treated with 1000 U/ml IFNa	activation	6 h	3 replicates each, part of time series with 2 treatment conditions	GSM823065,GSM823066,GSM823067	GSM823041,GSM823042,GSM823043
+JAK-STAT	GSE33264c	Calu-3 cells	treated with 500 U/ml IFNg	activation	3 h	3 replicates each, part of time series with 2 treatment conditions	GSM823074,GSM823075,GSM823076	GSM823050,GSM823051,GSM823052
+JAK-STAT	GSE33264d	Calu-3 cells	treated with 500 U/ml IFNg	activation	6 h	3 replicates each, part of time series with 2 treatment conditions	GSM823077,GSM823078,GSM823079	GSM823053,GSM823054,GSM823055
+JAK-STAT	GSE3920a	HUVECs	treated with IFNa	activation	5 h	5 replicates	GSM89636,GSM89639,GSM89642,GSM89643,GSM89644	GSM89637,GSM89640,GSM89645,GSM89646,GSM89647
+JAK-STAT	GSE3920b	HUVECs	treated with IFNb	activation	5 h	2 replicates	GSM89636,GSM89639	GSM89638,GSM89641
+JAK-STAT	GSE3920c	HUVECs	treated with IFNg	activation	5 h	3 replicates	GSM89636,GSM89639,GSM89642	GSM89648,GSM89649,GSM89650
+JAK-STAT	GSE3920d	fibroblasts	treated with IFNa	activation	5 h	3 replicates	GSM89654,GSM89655,GSM89656	GSM89651,GSM89652,GSM89653
+JAK-STAT	GSE3920e	fibroblasts	treated with IFNg	activation	5 h	2 replicates	GSM89654,GSM89655	GSM89657,GSM89658
+JAK-STAT	GSE440	Foreskin keratinocytes	treated with IFN-gamma (respective time control)	activation	1 h	2 Controls existent on the web page only 1 in the whole download script just taken that one	GSM6709	GSM7765
+JAK-STAT	GSE4885a	HepG2 hepatocellular carcinoma cells	treated with IL-6	activation	1 h	2 replicates, part of time series	GSM109801,GSM109802	GSM109803,GSM109804
+JAK-STAT	GSE4885b	HepG2 hepatocellular carcinoma cells	treated with IL-6	activation	4 h	2 replicates, part of time series	GSM109801,GSM109802	GSM109805,GSM109806
+JAK-STAT	GSE5542a	A549 cell line	treated with 500U Infergen (Interferon type 1)	activation	6 h	4 replicates	GSM128888,GSM128893,GSM128902,GSM128911	GSM128884,GSM128890,GSM128899,GSM128908
+JAK-STAT	GSE5542b	A549 cell line	treated with 500U IFN-g1b	activation	6 h	4 replicates	GSM128888,GSM128893,GSM128902,GSM128911	GSM128885,GSM128891,GSM128900,GSM128909
+JAK-STAT	GSE8059	NK (Primary Natural Killer cells)	treated with IL-2	activation	2 h		GSM198942	GSM198943
+JAK-STAT	GSE8515	human monocyte-derived macrophages	treated with IL-6	activation	4 h	5 replicates each	GSM211500,GSM211501,GSM211502,GSM211503,GSM211504	GSM211510,GSM211511,GSM211512,GSM211513,GSM211514
+JAK-STAT	GSE8685a	Sez-4 cell line	treated with 200U IL-2	activation	4 h	3 replicates, different IL treatments, after 16h IL2 starvation	GSM215347,GSM215348,GSM215349	GSM215350,GSM215351,GSM215352
+JAK-STAT	GSE8685b	Sez-4 cell line	treated with 20ng/ml IL-15	activation	4 h	3 replicates, different IL treatments, after 16h IL2 starvation	GSM215347,GSM215348,GSM215349	GSM215353,GSM215354,GSM215355
+JAK-STAT	GSE8685c	Sez-4 cell line	treated with 100ng/ml IL-21	activation	4 h	3 replicates, different IL treatments, after 16h IL2 starvation	GSM215347,GSM215348,GSM215349	GSM215356,GSM215357,GSM215358
+JAK-STAT	GSE8687	Sez-4	starved of IL-2 and activated with IL-2	activation	4 h after stimulation (16 h IL-2 pre-starvation)		GSM215362,GSM215363,GSM215361	GSM215365,GSM215366,GSM215364
+JAK-STAT	GSE9481	side population of ovarian cancer	treated with 1000 U/ml IFNa	activation	5 h	2 replicates	GSM240637,GSM240638	GSM240639,GSM240640
+MAPK	GSE10088a	SkMel-28 cells	treated with PD0325901, MEK inhibitor	inhibition	2 h	1 replicate each, mainly influencing MAPKs	GSM254963	GSM254964
+MAPK	GSE10088b	SkMel-28 cells	treated with PD0325901, MEK inhibitor	inhibition	8 h	1 replicate each, mainly influencing MAPKs	GSM254963	GSM254965
+MAPK	GSE12764	MCF10A cells	transfected with MEK1	activation	24 h	6 replicates each, mostly activates MAPKs	GSM320243,GSM320244,GSM320245,GSM320246,GSM320247,GSM320248	GSM320254,GSM320255,GSM320256,GSM320257,GSM320258,GSM320259
+MAPK	GSE14934b	HEK-HT (kidney)	Ras (G12V,T35S) activation mutants	activation	not specified	mutants said to be mostly activating Raf	GSM373089,GSM373094,GSM373099,GSM373104,GSM373109	GSM373091,GSM373096,GSM373101,GSM373106,GSM373111
+MAPK	GSE17939	HUVECs	transfected with constitutive active MEK5D	activation	40 h	3 replicates each, mainly activating MAPKs	GSM448023,GSM448025,GSM448043	GSM448029,GSM448041,GSM448047
+MAPK	GSE3542b	MCF-7 (breast cancer cells)	co-transfected with constituitively active MEK	activation	not specified		GSM81189,GSM81190,GSM81191	GSM81198,GSM81199,GSM81200
+MAPK	GSE3542c	MCF-7 (breast cancer cells)	co-transfected with constituitively active Raf	activation	not specified		GSM81189,GSM81190,GSM81191	GSM81204,GSM81205,GSM81206
+MAPK	GSE6521a	MCF-7 breast cancer cells	Treatment with U0126 (MEK inhibitor)	inhibition	1.5 h	no stimulation	GSM149913	GSM149928
+MAPK+PI3K	GSE10778a	human umbilical vein endothelial cells (HUVEC)	Treatment with EGF	activation	0.5 h	time series 30 min, 1 h, 2.5 h 6 h / same with VEGF	GSM272113	GSM272118
+MAPK+PI3K	GSE10778b	human umbilical vein endothelial cells (HUVEC)	Treatment with EGF	activation	1 h	time series 30 min, 1 h, 2.5 h 6 h / same with VEGF	GSM272113	GSM272119
+MAPK+PI3K	GSE10778c	human umbilical vein endothelial cells (HUVEC)	Treatment with EGF	activation	2.5 h	time series 30 min, 1 h, 2.5 h 6 h / same with VEGF	GSM272113	GSM272120
+MAPK+PI3K	GSE11729a	H1299 human non-small cell lung cancer cells	Treatment with EGF	activation	0.5 h	time series: 30 min, 1, 2, 4, 6 and 10 h	GSM297647	GSM297648
+MAPK+PI3K	GSE11729b	H1299 human non-small cell lung cancer cells	Treatment with EGF	activation	1 h	time series: 30 min, 1, 2, 4, 6 and 10 h	GSM297647	GSM297649
+MAPK+PI3K	GSE11729c	H1299 human non-small cell lung cancer cells	Treatment with EGF	activation	2 h	time series: 30 min, 1, 2, 4, 6 and 10 h	GSM297647	GSM297650
+MAPK+PI3K	GSE11729d	H1299 human non-small cell lung cancer cells	Treatment with EGF	activation	4 h	time series: 30 min, 1, 2, 4, 6 and 10 h	GSM297647	GSM297651
+MAPK+PI3K	GSE11729e	H1299 human non-small cell lung cancer cells	Treatment with EGF	activation	6 h	time series: 30 min, 1, 2, 4, 6 and 10 h	GSM297647	GSM297652
+MAPK+PI3K	GSE12764b	MCF10A cells	transfected with HRAS(G12V)	activation	24 h	3 replicates each, probably activating PI3K and MAPKs	GSM320243,GSM320244,GSM320245,GSM320246,GSM320247,GSM320248	GSM320249,GSM320250,GSM320251,GSM320252,GSM320253
+MAPK+PI3K	GSE13009a	MCF7 human breast cancer cells	Treatment with EGF	activation	0.5 h	time series: 10,15,20,30,45,60,90 min, 2, 3, 4, 6...72 h	GSM325937	GSM325944,GSM325945
+MAPK+PI3K	GSE13009b	MCF7 human breast cancer cells	Treatment with EGF	activation	1 h	time series: 10,15,20,30,45,60,90 min, 2, 3, 4, 6...72 h	GSM325937	GSM325948,GSM325949
+MAPK+PI3K	GSE13009c	MCF7 human breast cancer cells	Treatment with EGF	activation	2 h	time series: 10,15,20,30,45,60,90 min, 2, 3, 4, 6...72 h	GSM325937	GSM325952,GSM325953
+MAPK+PI3K	GSE13009d	MCF7 human breast cancer cells	Treatment with EGF	activation	4 h	time series: 10,15,20,30,45,60,90 min, 2, 3, 4, 6...72 h	GSM325937	GSM325956,GSM325957
+MAPK+PI3K	GSE13009e	MCF7 human breast cancer cells	Treatment with HRG	activation	0.5 h	time series: 10,15,20,30,45,60,90 min, 2, 3, 4, 6...72 h	GSM325937	GSM325978,GSM325979
+MAPK+PI3K	GSE13009f	MCF7 human breast cancer cells	Treatment with HRG	activation	1 h	time series: 10,15,20,30,45,60,90 min, 2, 3, 4, 6...72 h	GSM325937	GSM325982,GSM325983
+MAPK+PI3K	GSE13009g	MCF7 human breast cancer cells	Treatment with HRG	activation	2 h	time series: 10,15,20,30,45,60,90 min, 2, 3, 4, 6...72 h	GSM325937	GSM325986,GSM325987
+MAPK+PI3K	GSE13009h	MCF7 human breast cancer cells	Treatment with HRG	activation	4 h	time series: 10,15,20,30,45,60,90 min, 2, 3, 4, 6...72 h	GSM325937	GSM325990,GSM325991
+MAPK+PI3K	GSE13009i	MCF7 human breast cancer cells	Treatment with EGF	activation	6 h	time series: 10,15,20,30,45,60,90 min, 2, 3, 4, 6...72 h	GSM325937	GSM325958,GSM325959
+MAPK+PI3K	GSE13009j	MCF7 human breast cancer cells	Treatment with HRG	activation	6 h	time series: 10,15,20,30,45,60,90 min, 2, 3, 4, 6...72 h	GSM325937	GSM325992,GSM325993
+MAPK+PI3K	GSE13168a	airway smooth muscle cells	treated with EGF	activation	8 h	1 replicate each, contain control vector, 4 donors	GSM332913	GSM332921
+MAPK+PI3K	GSE13168b	airway smooth muscle cells	treated with EGF	activation	8 h	1 replicate each, contain control vector, 4 donors	GSM332914	GSM332922
+MAPK+PI3K	GSE13168c	airway smooth muscle cells	treated with EGF	activation	8 h	1 replicate each, contain control vector, 4 donors	GSM332915	GSM332923
+MAPK+PI3K	GSE13168d	airway smooth muscle cells	treated with EGF	activation	8 h	1 replicate each, contain control vector, 4 donors	GSM332916	GSM332924
+MAPK+PI3K	GSE14256a	Human foreskin fibroblasts (AG01518)	Treatment with platelet-derived growth factor-BB (PDGF-BB)	activation	1 h		GSM356969,GSM356970	GSM356966,GSM356973
+MAPK+PI3K	GSE14256b	Human foreskin fibroblasts (AG01518)	Treatment with bFGF (basic fibroblast growth factor)	activation	1 h		GSM356969,GSM356970	GSM356968,GSM356971
+MAPK+PI3K	GSE14934a	HEK-HT (kidney)	Ras (G12V) activation mutants	activation	not specified		GSM373089,GSM373094,GSM373099,GSM373104,GSM373109	GSM373090,GSM373095,GSM373100,GSM373105,GSM373110
+MAPK+PI3K	GSE20277	HeLa cells	treated with EGF	activation	0.66 h	3 replicates each	GSM508433,GSM508434,GSM508435	GSM507245,GSM507246,GSM507247
+MAPK+PI3K	GSE33710	WI-38 cells	RASv12 overexpression	activation	not indicated	3 replicates each	GSM833183,GSM833184,GSM833185	GSM833186,GSM833187,GSM833188
+MAPK+PI3K	GSE3542a	MCF-7 (breast cancer cells)	co-transfected with constituitively active erbB-2	activation	not specified		GSM81189,GSM81190,GSM81191	GSM81195,GSM81196,GSM81197
+MAPK+PI3K	GSE3542d	MCF-7 (breast cancer cells)	co-transfected with ligand-inducible EGFR	activation	not specified		GSM81189,GSM81190,GSM81191	GSM81201,GSM81202,GSM81203
+MAPK+PI3K	GSE6462a	MCF-7 (human breast cancer)	treatment with EGF (10nm)	activation	0.75 h		GSM148516	GSM148543
+MAPK+PI3K	GSE6462b	MCF-7 (human breast cancer)	treatment with EGF (10nm)	activation	1.5 h		GSM148516	GSM148544
+MAPK+PI3K	GSE6462c	MCF-7 (human breast cancer)	treatment with 10 nm HRG= heregulin Erb3/4 Ligand	activation	0.75 h		GSM148517	GSM148570
+MAPK+PI3K	GSE6462d	MCF-7 (human breast cancer)	treatment with 10 nm HRG= heregulin Erb3/4 Ligand	activation	1.5 h		GSM148517	GSM148572
+MAPK+PI3K	GSE6521d	MCF-7 breast cancer cells	Treatment with HRG (heregulin ErbB3 Ligand)	activation	0.75 h		GSM149913	GSM149919
+MAPK+PI3K	GSE6521e	MCF-7 breast cancer cells	Treatment with HRG (heregulin ErbB3 Ligand)	activation	1.5 h		GSM149913	GSM149921
+MAPK+PI3K	GSE6783a	HELA (Human cervical carcinoma cell line)	EGF treatment after 24 h serum starvation (Control 0 h)	activation	0.33 h		GSM156764	GSM156765
+MAPK+PI3K	GSE6783b	HELA (Human cervical carcinoma cell line)	EGF treatment after 24 h serum starvation (Control 0 h)	activation	1 h		GSM156764	GSM156767
+MAPK+PI3K	GSE6783c	HELA (Human cervical carcinoma cell line)	EGF treatment after 24 h serum starvation (Control 0 h)	activation	2 h		GSM156764	GSM156768
+MAPK+PI3K	GSE6783d	HELA (Human cervical carcinoma cell line)	EGF treatment after 24 h serum starvation (Control 0 h)	activation	4 h		GSM156764	GSM156769
+MAPK+PI3K	GSE6784a	MCF-10A (mammary epithelial cell line)	EGF treatment after 24 h serum starvation (Control 0 h)	activation	0.33 h		GSM156771	GSM156772
+MAPK+PI3K	GSE6784b	MCF-10A (mammary epithelial cell line)	EGF treatment after 24 h serum starvation (Control 0 h)	activation	1 h		GSM156771	GSM156774
+MAPK+PI3K	GSE6784c	MCF-10A (mammary epithelial cell line)	EGF treatment after 24 h serum starvation (Control 0 h)	activation	2 h		GSM156771	GSM156775
+MAPK+PI3K	GSE6784d	MCF-10A (mammary epithelial cell line)	EGF treatment after 24 h serum starvation (Control 0 h)	activation	4 h		GSM156771	GSM156776
+MAPK+PI3K	GSE7403a	SH-SY5Y (Neuroblastoma cells)	PDGF treatment with 60 min prior DMSO treatment	activation	0.5 h		GSM178575,GSM178576	GSM178569,GSM178570
+MAPK+PI3K	GSE7403c	SH-SY5Y (Neuroblastoma cells)	PDGF treatment with 60 min prior DMSO treatment	activation	1 h		GSM178583	GSM178577,GSM178578
+MAPK+PI3K	GSE7403e	SH-SY5Y (Neuroblastoma cells)	PDGF treatment with 60 min prior DMSO treatment	activation	2 h		GSM178590,GSM178591	GSM178584,GSM178585
+MAPK+PI3K	GSE7403g	SH-SY5Y (Neuroblastoma cells)	PDGF treatment with 60 min prior DMSO treatment	activation	4 h		GSM178606,GSM178607	GSM178600,GSM178601
+MAPK+PI3K	GSE8471	MCF7	HRG stimulated (ErbB Ligand)	activation	2 h after stimulation		GSM210180	GSM210181
+NFkB	GSE10316a	monocyte derived dendritic cells	treated with 1 µg/ml LPS	activation	4 h	1 replicate each	GSM260689	GSM260690
+NFkB	GSE10316b	monocyte derived dendritic cells	treated with 50 µg/ml polyI:C	activation	4 h	1 replicate each	GSM260689	GSM260693
+NFkB	GSE14000a	primary blood cells	treated with LPS	activation	4 h	1 replicate each, 4 donors	GSM349874	GSM349876
+NFkB	GSE14000b	primary blood cells	treated with LPS	activation	4 h	1 replicate each, 4 donors	GSM351530	GSM351532
+NFkB	GSE14000c	primary blood cells	treated with LPS	activation	4 h	1 replicate each, 4 donors	GSM351537	GSM351539
+NFkB	GSE14000d	primary blood cells	treated with LPS	activation	4 h	1 replicate each, 4 donors	GSM351622	GSM351638
+NFkB	GSE14419a	primary macrophages	treated with zymosan A	activation	3 h	1 replicate each, 4 donors	GSM360139	GSM360141
+NFkB	GSE14419b	primary macrophages	treated with zymosan A	activation	3 h	1 replicate each, 4 donors	GSM360143	GSM360145
+NFkB	GSE14419c	primary macrophages	treated with zymosan A	activation	3 h	1 replicate each, 4 donors	GSM360182	GSM360184
+NFkB	GSE14419d	primary macrophages	treated with zymosan A	activation	3 h	1 replicate each, 4 donors	GSM360186	GSM360188
+NFkB	GSE1541aNFkB	A549 (Alveolar Epithelial Cells line)	treated with LPS	activation	1 h		GSM26477,GSM26478	GSM26481,GSM26482
+NFkB	GSE1541bNFkB	A549 (Alveolar Epithelial Cells line)	treated with LPS	activation	4 h		GSM26479,GSM26480	GSM26483,GSM26484
+NFkB	GSE16193	THP1 monocytic cell line	treated with 1 µg/ml LPS	activation	1 h	5 replicates each	GSM406482,GSM406483,GSM406484,GSM406485,GSM406486	GSM406497,GSM406498,GSM406499,GSM406500,GSM406501
+NFkB	GSE19315	THP1 monocytic cell line	treated with LPS	activation	6 h	3 replicates each	GSM479983,GSM479984,GSM479985	GSM479986,GSM479987,GSM479988
+NFkB	GSE19627	THP1 monocytes	treated with LPS	activation	4 h	3 replicates each	GSM489343,GSM489344,GSM489345	GSM489337,GSM489338,GSM489339
+NFkB	GSE19738a	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492850	GSM492917
+NFkB	GSE19738a2	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492876	GSM492943
+NFkB	GSE19738a3	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492877	GSM492944
+NFkB	GSE19738a4	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492878	GSM492945
+NFkB	GSE19738a6	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492880	GSM492947
+NFkB	GSE19738a7	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492881	GSM492948
+NFkB	GSE19738a8	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492882	GSM492949
+NFkB	GSE19738a9	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492883	GSM492950
+NFkB	GSE19738b	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492851	GSM492918
+NFkB	GSE19738c	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492852	GSM492919
+NFkB	GSE19738d	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492853	GSM492920
+NFkB	GSE19738e	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492854	GSM492921
+NFkB	GSE19738f	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492855	GSM492922
+NFkB	GSE19738g	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492856	GSM492923
+NFkB	GSE19738h	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492857	GSM492924
+NFkB	GSE19738i	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492858	GSM492925
+NFkB	GSE19738j	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492859	GSM492926
+NFkB	GSE19738k	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492860	GSM492927
+NFkB	GSE19738l	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492861	GSM492928
+NFkB	GSE19738m	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492862	GSM492929
+NFkB	GSE19738n	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492863	GSM492930
+NFkB	GSE19738o	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492864	GSM492931
+NFkB	GSE19738p	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492865	GSM492932
+NFkB	GSE19738q	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492866	GSM492933
+NFkB	GSE19738r	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492867	GSM492934
+NFkB	GSE19738s	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492868	GSM492935
+NFkB	GSE19738t	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492869	GSM492936
+NFkB	GSE19738v	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492871	GSM492938
+NFkB	GSE19738w	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492872	GSM492939
+NFkB	GSE19738x	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492873	GSM492940
+NFkB	GSE19738y	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492874	GSM492941
+NFkB	GSE19738z	whole blood cells	treated with LPS	activation	5-6 h	1 replicate each, 34 individuals	GSM492875	GSM492942
+NFkB	GSE20114a	primary blood cells	treated with LPS	activation	4 h	1 replicate each, 4 donors	GSM502612	GSM502620
+NFkB	GSE20114b	primary blood cells	treated with LPS	activation	4 h	1 replicate each, 4 donors	GSM502613	GSM502621
+NFkB	GSE20114c	primary blood cells	treated with LPS	activation	4 h	1 replicate each, 4 donors	GSM502614	GSM502622
+NFkB	GSE20114d	primary blood cells	treated with LPS	activation	4 h	1 replicate each, 4 donors	GSM502615	GSM502623
+NFkB	GSE22248a	PBMCs	treated with LPS	activation	4 h	1 replicates each, 4 individuals	GSM553736	GSM553737
+NFkB	GSE22248b	PBMCs	treated with LPS	activation	4 h	1 replicates each, 4 individuals	GSM553739	GSM553740
+NFkB	GSE22248c	PBMCs	treated with LPS	activation	4 h	1 replicates each, 4 individuals	GSM553742	GSM553743
+NFkB	GSE22248d	PBMCs	treated with LPS	activation	4 h	1 replicates each, 4 individuals	GSM553745	GSM553746
+NFkB	GSE23371	dendritic cells	treated with LPS	activation	6 h	3 technical replicates each	GSM573357,GSM573358,GSM573359	GSM573360,GSM573361,GSM573362
+NFkB	GSE2396	human gammadelta T cells	treated with LPS	activation	4 h	4 cell cultures pooled	GSM45116	GSM45117
+NFkB	GSE24897	macrophages	treated with PG-LPS	activation	2 h	3 replicates each	GSM612262,GSM612263,GSM612264	GSM612268,GSM612269,GSM612270
+NFkB	GSE25155a	HEK TLR2 transfected	treated with 10µg/ml H. pylori LPS	activation	2 h	2 replicates each, part of time series	GSM618017,GSM618018	GSM618019,GSM618020
+NFkB	GSE2706	Monocyte derived dendritic cells	treated with LPS	activation	2 h	3 replicates	GSM52346,GSM52353,GSM52360	GSM52340,GSM52347,GSM52354
+NFkB	GSE29700	BL-2 burkitt lymphoma cell line	treated with LPS	activation	6 h	3 replicates each	GSM736728,GSM736729,GSM736730	GSM736731,GSM736732,GSM736733
+NFkB	GSE3037a	primary periphal blood neutrophils	treated with LPS	activation	1 h	1 replicate each, 8 individuals	GSM66867	GSM66884
+NFkB	GSE3037b	primary periphal blood neutrophils	treated with LPS	activation	1 h	1 replicate each, 8 individuals	GSM66868	GSM66884
+NFkB	GSE3037c	primary periphal blood neutrophils	treated with LPS	activation	1 h	1 replicate each, 8 individuals	GSM66869	GSM66885
+NFkB	GSE3037d	primary periphal blood neutrophils	treated with LPS	activation	1 h	1 replicate each, 8 individuals	GSM66870	GSM66886
+NFkB	GSE3037e	primary periphal blood neutrophils	treated with LPS	activation	1 h	1 replicate each, 8 individuals	GSM66871	GSM66887
+NFkB	GSE3037f	primary periphal blood neutrophils	treated with LPS	activation	1 h	1 replicate each, 8 individuals	GSM66872	GSM66888
+NFkB	GSE3037g	primary periphal blood neutrophils	treated with LPS	activation	1 h	1 replicate each, 8 individuals	GSM66873	GSM66889
+NFkB	GSE3037h	primary periphal blood neutrophils	treated with LPS	activation	1 h	1 replicate each, 8 individuals	GSM66874	GSM66890
+NFkB	GSE3140a	mononuclear cells from adult peripheral blood	treated with 5 µg/ml LPS	activation	4 h	3 replicates each, time might not be exact but probably 4h or 2h	GSM70121,GSM70122,GSM70123	GSM70124,GSM71079,GSM71080
+NFkB	GSE3140b	mononuclear cells from cord blood	treated with 5 µg/ml LPS	activation	4 h	3 replicates each, time might not be exact but probably 4h or 2h	GSM71081,GSM71082,GSM71083	GSM71084,GSM71085,GSM71086
+NFkB	GSE32390aNFkB	fibroblasts	treated with poly I:C	activation	4 h	1 replicate each, 3 individuals	GSM801677	GSM801667
+NFkB	GSE32390bNFkB	fibroblasts	treated with poly I:C	activation	4 h	1 replicate each, 3 individuals	GSM801680	GSM801684
+NFkB	GSE32390cNFkB	fibroblasts	treated with poly I:C	activation	4 h	1 replicate each, 3 individuals	GSM801681	GSM801674
+NFkB	GSE32390dNFkB	PBMCs	treated with 10 ng/ml LPS	activation	2 h	1 replicate each	GSM801688	GSM801685
+NFkB	GSE32390e	PBMCs	treated with 3 µg/ml R848	activation	2 h	1 replicate each, R848 is a relative specific TLR7/8 agonist	GSM801688	GSM801685
+NFkB	GSE3491a	GENDER: MALE TISSUE: WHOLE BLOOD LPS RESPONSE: HIGH	treated with LPS 10 NG/ML	activation	4 h	three patients with high LPS response rate	GSM78606	GSM78607
+NFkB	GSE3491b	GENDER: MALE TISSUE: WHOLE BLOOD LPS RESPONSE: HIGH	treated with LPS 10 NG/ML	activation	4 h	three patients with high LPS response rate	GSM79057	GSM79058
+NFkB	GSE3491c	GENDER: FEMALE TISSUE: WHOLE BLOOD LPS RESPONSE: HIGH	treated with LPS 10 NG/ML	activation	4 h	three patients with high LPS response rate	GSM79064	GSM79067
+NFkB	GSE3720a	expanded peripheral blood Vd1 gd T lymphocytes	treated with LPS 10 mg/mL	activation	4 h	3 week culture with Vd1 mab 0.1mg/mL, pan gd mAb 0.1 mg/mL, and IL-15 10ng/mL	GSM85804,GSM85805	GSM85806,GSM85807
+NFkB	GSE3720b	expanded peripheral blood Vd2 gd T lymphocytes	treated with LPS 10 mg/mL	activation	4 h	3 week culture with Vd1 mab 0.1mg/mL, pan gd mAb 0.1 mg/mL, and IL-15 10ng/mL	GSM85810,GSM85811	GSM85812,GSM85813
+NFkB	GSE3982	macrophages derived from monocytes	treated with LPS	activation	4 h	2 replicates each	GSM90838,GSM90839	GSM90840,GSM90841
+NFkB	GSE4748	Monocyte derived dendritic cells	treated with LPS 0.5 ������g/ml		3 h		GSM107453,GSM107458	GSM107455,GSM107460
+NFkB	GSE510316	monocyte-derived dendritic cells	treated with LPS 1 ������g/ml		4 h	immature cells	GSM260689	GSM260690
+NFkB	GSE518047a	H929 (Multiple Myeloma Cell Line)	transfected with NIK		undefined	overexpression directly above NFkB	GSM451261,GSM451264,GSM451267	GSM451262,GSM451265,GSM451268
+NFkB	GSE518047b	H929 (Multiple Myeloma Cell Line)	transfected with IKKB		undefined	overexpression directly above NFkB	GSM451261,GSM451264,GSM451267	GSM451263,GSM451266,GSM451269
+NFkB	GSE518047c	SACHI (Multiple Myeloma Cell Line)	transfected with NIK		undefined	overexpression directly above NFkB	GSM451270,GSM451273,GSM451276	GSM451271,GSM451274,GSM451277
+NFkB	GSE518047d	SACHI (Multiple Myeloma Cell Line)	transfected with IKKB		undefined	overexpression directly above NFkB	GSM451270,GSM451273,GSM451276	GSM451272,GSM451275,GSM451278
+NFkB	GSE53982a	Human CD16+, CCR3- peripheral blood neutrophils	treated with LPS 100 ng/ml		1 h		GSM90843,GSM90844	GSM90847
+NFkB	GSE53982b	Macrophages differentiated from isolated CD14+ monocytes in the presence of GM-CSF	treated with LPS 100 ng/ml		4 h		GSM90838,GSM90839	GSM90840,GSM90841
+NFkB	GSE5504a	human peripheral blood derived monocytes	treated with LPS	activation	2 h		GSM126988,GSM126993	GSM126994,GSM126995
+NFkB	GSE5504b	human peripheral blood derived monocytes	treated with LPS	activation	4 h		GSM126988,GSM126993	GSM126996,GSM126997
+NFkB	GSE5883	HMVEC-L (Microvascular endothelial cells, lung)	treated with LPS 10 ng	activation	4 h	4 replicates each	GSM114564,GSM114565,GSM114566,GSM114567	GSM114552,GSM114553,GSM114554,GSM114555
+NFkB	GSE7850a	Retinal endothelial cell	treated with LPS 10 100 ng/mL	activation	4 h	three different patients 2 different tissues	GSM190517,GSM190518	GSM190519,GSM190520
+NFkB	GSE7850b	Choroidal endothelial cell	treated with LPS 10 100 ng/mL	activation	4 h	three different patients 2 different tissues	GSM190521,GSM190522	GSM190523,GSM190524
+NFkB	GSE7850c	Retinal endothelial cell	treated with LPS 10 100 ng/mL	activation	4 h	three different patients 2 different tissues	GSM190525,GSM190526	GSM190527,GSM190528
+NFkB	GSE7850d	Choroidal endothelial cell	treated with LPS 10 100 ng/mL	activation	4 h	three different patients 2 different tissues	GSM190529,GSM190530	GSM190531,GSM190532
+NFkB	GSE7850e	Retinal endothelial cell	treated with LPS 10 100 ng/mL	activation	4 h	three different patients 2 different tissues	GSM190533,GSM190534	GSM190535,GSM190536
+NFkB	GSE7850f	Choroidal endothelial cell	treated with LPS 10 100 ng/mL	activation	4 h	three different patients 2 different tissues	GSM190537,GSM190538	GSM190539,GSM190540
+NFkB	GSE8190a	epithelial cells	treated with LPS	activation	4 h	2 replicates each, 14 individuals	GSM202420,GSM202421	GSM202416,GSM202417
+NFkB	GSE8190c	epithelial cells	treated with LPS	activation	4 h	2 replicates each, 14 individuals	GSM202430,GSM202431	GSM202432,GSM202433
+NFkB	GSE8190d	epithelial cells	treated with LPS	activation	4 h	2 replicates each, 14 individuals	GSM202440,GSM202441	GSM202436,GSM202437
+NFkB	GSE8190e	epithelial cells	treated with LPS	activation	4 h	2 replicates each, 14 individuals	GSM202452,GSM202453	GSM202448,GSM202449
+NFkB	GSE8190f	epithelial cells	treated with LPS	activation	4 h	2 replicates each, 14 individuals	GSM202476,GSM202477	GSM202472,GSM202473
+NFkB	GSE8190g	epithelial cells	treated with LPS	activation	4 h	2 replicates each, 14 individuals	GSM202486,GSM202487	GSM202482,GSM202483
+NFkB	GSE8190h	epithelial cells	treated with LPS	activation	4 h	2 replicates each, 14 individuals	GSM202510,GSM202511	GSM202506,GSM202507
+NFkB	GSE8190i	epithelial cells	treated with LPS	activation	4 h	2 replicates each, 14 individuals	GSM202516,GSM202517	GSM202512,GSM202513
+NFkB	GSE8190k	epithelial cells	treated with LPS	activation	4 h	2 replicates each, 14 individuals	GSM202591,GSM202662	GSM202589,GSM202660
+NFkB	GSE8190l	epithelial cells	treated with LPS	activation	4 h	2 replicates each, 14 individuals	GSM202594,GSM202665	GSM202592,GSM202663
+NFkB	GSE8608	monocyte-derived macrophages of 13 male healthy subjects	treated with LPS 10ng/ml	activation	4 h		GSM213500	GSM213511
+NFkB	GSE9916	THP-1 cell line	treated with 1 µg/ml LPS	activation	4 h	3 replicates each	GSM250931,GSM250932,GSM250933	GSM250940,GSM250941,GSM250942
+NFkB	GSE9988a	Human monocytes (donor 1)	treated with LPS	activation	2 h	10 anonymous donors in this set	GSM252485	GSM252451
+NFkB	GSE9988b	Human monocytes (donor 2)	treated with LPS	activation	2 h	10 anonymous donors in this set	GSM252481	GSM252448
+NFkB	GSE9988c	Human monocytes (donor 3)	treated with LPS	activation	2 h	10 anonymous donors in this set	GSM252480	GSM252447
+NFkB	GSE9988d	Human monocytes (donor 4)	treated with LPS	activation	2 h	10 anonymous donors in this set	GSM252479	GSM252444
+NFkB	GSE9988e	Human monocytes (donor 5)	treated with LPS	activation	2 h	10 anonymous donors in this set	GSM252482	GSM252450
+NFkB	GSE9988f	Human monocytes (donor 6)	treated with LPS	activation	2 h	10 anonymous donors in this set	GSM252478	GSM252452
+NFkB	GSE9988g	Human monocytes (donor 7)	treated with LPS	activation	2 h	10 anonymous donors in this set	GSM252483	GSM252443
+NFkB	GSE9988h	Human monocytes (donor 8)	treated with LPS	activation	2 h	10 anonymous donors in this set	GSM252477	GSM252454
+NFkB	GSE9988i	Human monocytes (donor 9)	treated with LPS	activation	2 h	10 anonymous donors in this set	GSM252484	GSM252449
+NFkB	GSE9988j	Human monocytes (donor 11)	treated with LPS	activation	2 h	10 anonymous donors in this set	GSM252476	GSM252453
+Notch	GSE104260	T-Acute Lymphoblastic Leukemia cell line TALL-1	Gamma secretase inhibitor compund E 1µM	inhibition	24h	two replicates	GSM2793819,GSM2793820	GSM2793821,GSM2793822
+Notch	GSE115690a	T-All cell line with Notch activating mutations TALL-1		inhibition	16h	three replicate, 2 cell lines taken	GSM3187737,GSM3187738,GSM3187739	GSM3187740,GSM3187741,GSM3187742
+Notch	GSE115690b	T-All cell line with Notch activating mutations RPMI.8402		inhibition	16h	three replicate, 2 cell lines taken	GSM3187755,GSM3187756,GSM3187757	GSM3187758,GSM3187759,GSM3187760
+Notch	GSE12355	EREB2-5 B cell line	transfected with Notch1 intracellular domain	activation	8 h	3 replicates each	GSM310330,GSM310331,GSM310332	GSM310333,GSM310334,GSM310335
+Notch	GSE125349	human MCL cell line Mino (Notch1 mutation causing prolonged activation upon stimulation)		inhibition	48h	no replicate, compared is DLL4 stimulated (Notch1 activated) vs DLL4 + Notch1 antibody	GSM3569343	GSM3569345
+Notch	GSE16477a	embryonal neuroblast cell line IMR32	inducible Notch3 via dox	activation	4h	two replicates, two clones combined	GSM414091,GSM414100	GSM414092,GSM414101
+Notch	GSE16477b	embryonal neuroblast cell line IMR32	inducible Notch3 via dox	activation	8h	two replicates, two clones combined	GSM414091,GSM414100	GSM414093,GSM414102
+Notch	GSE29544a	CUTLL1 cells	treated with washout of GSI inhibitor	activation	2 h	3 replicates each, treatment after 3 days treatment with GSI, GSI= gamma secretase inhibitor	GSM731503,GSM731504,GSM731505	GSM731506,GSM731507,GSM731508
+Notch	GSE29544b	CUTLL1 cells	treated with washout of GSI inhibitor	activation	4 h	3 replicates each, treatment after 3 days treatment with GSI, GSI= gamma secretase inhibitor	GSM731503,GSM731504,GSM731505	GSM731513,GSM731514,GSM731512
+Notch	GSE29959a	human T-ALL cell line ALLSIL		inhibition	12h	no replicate, 5 cell lines!!!	GSM741305	GSM741306
+Notch	GSE29959b	human T-ALL cell line DND41		inhibition	12h	no replicate, 5 cell lines!!!	GSM741311	GSM741312
+Notch	GSE29959c	human T-ALL cell line HPBALL		inhibition	12h	no replicate, 5 cell lines!!!	GSM741317	GSM741318
+Notch	GSE29959d	human T-ALL cell line KOPTK1		inhibition	12h	no replicate, 5 cell lines!!!	GSM741323	GSM741324
+Notch	GSE29959e	human T-ALL cell line TALL-1		inhibition	12h	no replicate, 5 cell lines!!!	GSM741329	GSM741330
+Notch	GSE30288		gamma-secretase inhibitor MRK-003 10µM	inhibition	4h	three replicates	GSM750722,GSM750727,GSM750733	GSM750730,GSM750728,GSM750725
+Notch	GSE34602a	MCl cell line Rec1	gama secretase inhibitor compound E	inhibition	24h	two replicates, second sensitive cell line also included	GSM851735,GSM851736	GSM851737,GSM851738
+Notch	GSE34602b	MCl cell line SP-49	gama secretase inhibitor compound E	inhibition	24h	two replicates, second sensitive cell line also included	GSM851739,GSM851740	GSM851741,GSM851742
+Notch	GSE36051a	breast cancer cell line MCF7	induction of Notch via Jagged1-FC	activation	6h	three replicates, control is Jagged1-FC + gamma secretase inhibitor DAPTK	GSM879944,GSM879945,GSM879946	GSM879941,GSM879942,GSM879943
+Notch	GSE36051b	breast cancer cell line MDA-MB-231	induction of Notch via Jagged1-FC	activation	6h	three replicates, control is Jagged1-FC + gamma secretase inhibitor DAPTK	GSM879959,GSM879960,GSM879961	GSM879956,GSM879957,GSM879958
+Notch	GSE36176a	A549 cells	treated with 2µM GSI RO4929097	inhibition	6 h	4 replicates each, different cell lines, GSI= gamma secretase inhibitor	GSM882357,GSM882358,GSM882359,GSM882360	GSM882361,GSM882362,GSM882363,GSM882364
+Notch	GSE36176b	H460 cells	treated with 2µM GSI RO4929097	inhibition	6 h	4 replicates each, different cell lines, GSI= gamma secretase inhibitor	GSM882373,GSM882374,GSM882375,GSM882376	GSM882377,GSM882378,GSM882379,GSM882380
+Notch	GSE39223	U87-EV human glioblastoma xenograft		inhibition	72h + 4h	3 replicates each	GSM958322,GSM958323,GSM958324	GSM958325,GSM958326,GSM958327
+Notch	GSE45750	Umbilical vein endothelial cells	gamma secretase inhibitor DAPT	inhibition	48 h	3 replicates each	GSM1113592,GSM1113593,GSM1113594	GSM1113595,GSM1113596,GSM1113597
+Notch	GSE50841	Colon cancer cell line SW480 with BOP1 overexpression		inhibition	24h	two replicates	GSM1231036,GSM1231037	GSM1231054,GSM1231055
+Notch	GSE82298	Triple negative breast cancer MBA-MB-468 cells		inhibition	24h	three replicates	GSM2188520,GSM2188522,GSM2188523	GSM2188519,GSM2188521,GSM2188525
+Notch	GSE85986	HUVEC treated with IL1-ß for 4h		inhibition	48h	three replicates	GSM2290151,GSM2290152,GSM2290153	GSM2290157,GSM2290158,GSM2290159
+p53	GSE12666a	MCF7 cells	treated with 10 µM BMH-7, p53 activator	activation	6 h	4 replicates each, lead compounds - mechanism of action unknown	GSM318069,GSM318070,GSM318071,GSM318072	GSM318045,GSM318046,GSM318047,GSM318048
+p53	GSE12666b	MCF7 cells	treated with 10 µM BMH-9, p53 activator	activation	6 h	4 replicates each, lead compounds - mechanism of action unknown	GSM318069,GSM318070,GSM318071,GSM318072	GSM318049,GSM318050,GSM318051,GSM318052
+p53	GSE12666c	MCF7 cells	treated with 10 µM BMH-15, p53 activator	activation	6 h	4 replicates each, lead compounds - mechanism of action unknown	GSM318069,GSM318070,GSM318071,GSM318072	GSM318053,GSM318054,GSM318055,GSM318056
+p53	GSE12666d	MCF7 cells	treated with 10 µM BMH-21, p53 activator	activation	6 h	4 replicates each, lead compounds - mechanism of action unknown	GSM318069,GSM318070,GSM318071,GSM318072	GSM318057,GSM318058,GSM318059,GSM318060
+p53	GSE12666e	MCF7 cells	treated with 10 µM BMH-22, p53 activator	activation	6 h	4 replicates each, lead compounds - mechanism of action unknown	GSM318069,GSM318070,GSM318071,GSM318072	GSM318061,GSM318062,GSM318063,GSM318064
+p53	GSE12666f	MCF7 cells	treated with 10 µM BMH-23, p53 activator	activation	6 h	4 replicates each, lead compounds - mechanism of action unknown	GSM318069,GSM318070,GSM318071,GSM318072	GSM318065,GSM318066,GSM318067,GSM318068
+p53	GSE13291	MCF7 cells	treated with 1 µM RITA, p53 activator	activation	2 h	1 replicate each, RITA inhibits HDM2-p53 interaction	GSM335410	GSM335411
+p53	GSE2238	HT1080 fibrosarcoma cells	treated with doxorubicin	activation	6 h	1 replicate each	GSM40961	GSM40962
+p53	GSE23010	U2OS cells	treated with 5 GY X-Ray irradiation	activation	4 h	3 replicates each, cells transfected with control sh RNA	GSM567732,GSM567740,GSM567748	GSM567733,GSM567741,GSM567749
+p53	GSE30240a	G361 cells	treated with 5 GY X-Ray irradiation	activation	3 h	3 replicates each, part of time series, time respective control, 5 different tissues	GSM748818,GSM748819,GSM748820	GSM748824,GSM748825,GSM748826
+p53	GSE30240b	G361 cells	treated with 5 GY X-Ray irradiation	activation	6 h	3 replicates each, part of time series, time respective control, 5 different tissues	GSM748821,GSM748822,GSM748823	GSM748827,GSM748828,GSM748829
+p53	GSE30240c	HepG2 cells	treated with 5 GY X-Ray irradiation	activation	3 h	3 replicates each, part of time series, time respective control, 5 different tissues	GSM748833,GSM748834,GSM748835	GSM748839,GSM748840,GSM748841
+p53	GSE30240d	HepG2 cells	treated with 5 GY X-Ray irradiation	activation	6 h	3 replicates each, part of time series, time respective control, 5 different tissues	GSM748836,GSM748837,GSM748838	GSM748842,GSM748843,GSM748844
+p53	GSE30240e	TK6 cells	treated with 5 GY X-Ray irradiation	activation	3 h	3 replicates each, part of time series, time respective control, 5 different tissues	GSM748848,GSM748849,GSM748850	GSM748854,GSM748855,GSM748856
+p53	GSE30240f	TK6 cells	treated with 5 GY X-Ray irradiation	activation	6 h	3 replicates each, part of time series, time respective control, 5 different tissues	GSM748851,GSM748852,GSM748853	GSM748857,GSM748858,GSM748859
+p53	GSE30240g	U2OS cells	treated with 5 GY X-Ray irradiation	activation	3 h	3 replicates each, part of time series, time respective control, 5 different tissues	GSM748863,GSM748864,GSM748865	GSM748869,GSM748870,GSM748871
+p53	GSE30240h	U2OS cells	treated with 5 GY X-Ray irradiation	activation	6 h	3 replicates each, part of time series, time respective control, 5 different tissues	GSM748866,GSM748867,GSM748868	GSM748872,GSM748873,GSM748874
+p53	GSE30240i	BJ cells	treated with 5 GY X-Ray irradiation	activation	3 h	3 replicates each, part of time series, time respective control, 5 different tissues	GSM749871,GSM749872,GSM749873	GSM749880,GSM749881,GSM749882
+p53	GSE30240j	BJ cells	treated with 5 GY X-Ray irradiation	activation	6 h	3 replicates each, part of time series, time respective control, 5 different tissues	GSM749874,GSM749875,GSM749876	GSM749883,GSM749884,GSM749885
+p53	GSE32441	HT1080 fibrosarcoma cells	treated with 0.25 µg/ml doxorubicin	activation	6 h	1 replicate each	GSM802712	GSM802717
+p53	GSE8939a	CS-B wt rescued cells	treated with 10 J/m2 UVC irradiation	activation	2 h	3 replicates each, 2 arrays per sample	GSM226614,GSM226615,GSM226619	GSM226620,GSM226621,GSM226622
+p53	GSE8939b	CS-B wt rescued cells	treated with 10 J/m2 UVC irradiation	activation	2 h	3 replicates each, 2 arrays per sample	GSM226616,GSM226617,GSM226618	GSM226623,GSM226624,GSM226625
+PI3K	GSE10086a	MDA468 cells	treated with PD0325901, MEK inhibitor	activation	8 h	1 replicate each, mainly activating PI3K pathway, 12 different cell lines	GSM254931	GSM254932
+PI3K	GSE10086b	H1650 cells	treated with PD0325901, MEK inhibitor	activation	8 h	1 replicate each, mainly activating PI3K pathway, 12 different cell lines	GSM254933	GSM254934
+PI3K	GSE10086c	A431 cells	treated with PD0325901, MEK inhibitor	activation	8 h	1 replicate each, mainly activating PI3K pathway, 12 different cell lines	GSM254935	GSM254936
+PI3K	GSE10086d	BT474 cells	treated with PD0325901, MEK inhibitor	activation	8 h	1 replicate each, mainly activating PI3K pathway, 12 different cell lines	GSM254937	GSM254938
+PI3K	GSE10086e	SKBR3 cells	treated with PD0325901, MEK inhibitor	activation	8 h	1 replicate each, mainly activating PI3K pathway, 12 different cell lines	GSM254939	GSM254940
+PI3K	GSE10086f	COLO205 cells	treated with PD0325901, MEK inhibitor	activation	8 h	1 replicate each, mainly activating PI3K pathway, 12 different cell lines	GSM254941	GSM254942
+PI3K	GSE10086g	HT29 cells	treated with PD0325901, MEK inhibitor	activation	8 h	1 replicate each, mainly activating PI3K pathway, 12 different cell lines	GSM254943	GSM254944
+PI3K	GSE10086h	MALME3M cells	treated with PD0325901, MEK inhibitor	activation	8 h	1 replicate each, mainly activating PI3K pathway, 12 different cell lines	GSM254945	GSM254946
+PI3K	GSE10086i	SKMEL1 cells	treated with PD0325901, MEK inhibitor	activation	8 h	1 replicate each, mainly activating PI3K pathway, 12 different cell lines	GSM254947	GSM254948
+PI3K	GSE10086j	SKMEL5 cells	treated with PD0325901, MEK inhibitor	activation	8 h	1 replicate each, mainly activating PI3K pathway, 12 different cell lines	GSM254949	GSM254950
+PI3K	GSE10086k	SKMEL19 cells	treated with PD0325901, MEK inhibitor	activation	8 h	1 replicate each, mainly activating PI3K pathway, 12 different cell lines	GSM254951	GSM254952
+PI3K	GSE10086l	SKMEL28 cells	treated with PD0325901, MEK inhibitor	activation	8 h	1 replicate each, mainly activating PI3K pathway, 12 different cell lines	GSM254953	GSM254954
+PI3K	GSE14934c	HEK-HT (kidney)	Ras (G12V,Y40C) activation mutants	activation	not specified	mutants said to be mostly activating PI3K	GSM373089,GSM373094,GSM373099,GSM373104,GSM373109	GSM373093,GSM373098,GSM373103,GSM373108,GSM373113
+PI3K	GSE17785a	MCF10A cells	PI3K activated mutants	activation	not indicated	3 replicates each	GSM443978,GSM443979,GSM443980	GSM443984,GSM443985,GSM443986
+PI3K	GSE17785b	MCF10A cells	treated with GDC-0941. a PI3K inhibitor	inhibition	4 h	3 replicates each	GSM443978,GSM443979,GSM443980	GSM443981,GSM443982,GSM443983
+PI3K	GSE26599	HB4a cells	treated with rapamycin	inhibition	not indicated	5 replicates each, rapamycin inhibits mTOR --> inhibition of PI3K pathway	GSM654640,GSM654641,GSM654642,GSM654643,GSM654644	GSM654650,GSM654651,GSM654652,GSM654653,GSM654654
+PI3K	GSE3737	PC3 (prostate cancer cell)	treatment with arachidonic acid (AA) should activate PI3K	activation	2 h		GSM86082	GSM86085,GSM86086
+PI3K	GSE6521b	MCF-7 breast cancer cells	Treatment with U0126 (MEK inhibitor) + HRG (heregulin ErbB3 Ligand)	activation	0.75 h	besides PI3K also all non Raf Ras targets activated	GSM149913	GSM149933
+PI3K	GSE6521c	MCF-7 breast cancer cells	Treatment with U0126 (MEK inhibitor) + HRG (heregulin ErbB3 Ligand)	activation	1.5 h	besides PI3K also all non Raf Ras targets activated	GSM149913	GSM149935
+PI3K	GSE7403b	SH-SY5Y (Neuroblastoma cells)	PDGF treatment with 60 min prior U0126 treatment	activation	0.5 h		GSM178575,GSM178576	GSM178571,GSM178572
+PI3K	GSE7403d	SH-SY5Y (Neuroblastoma cells)	PDGF treatment with 60 min prior U0126 treatment	activation	1 h		GSM178583	GSM178579,GSM178580
+PI3K	GSE7403f	SH-SY5Y (Neuroblastoma cells)	PDGF treatment with 60 min prior U0126 treatment	activation	2 h		GSM178590,GSM178591	GSM178586,GSM178587
+PI3K	GSE7403h	SH-SY5Y (Neuroblastoma cells)	PDGF treatment with 60 min prior U0126 treatment	activation	4 h		GSM178606,GSM178607	GSM178602,GSM178603
+PI3K	GSE7562a	A431	PTEN hcRNA knockdown	activation	not specified (until log Phase)		GSM183432,GSM183433	GSM183434,GSM183435
+PI3K	GSE7562b	HCC827	PTEN hcRNA knockdown	activation	not specified (until log Phase)		GSM183436,GSM183437	GSM183438,GSM183439
+PI3K	GSE7562c	SKBR3	PTEN hcRNA knockdown	activation	not specified (until log Phase)		GSM183440,GSM183441	GSM183442,GSM183443
+PPAR	GSE16385a	primary monocytes	treated with 1mM rosiglitazone, a PPARg agonist	activation	4 h	1 replicate each, differently activated macrophages	GSM411184	GSM411185
+PPAR	GSE16385b	primary IL4 activated monocytes	treated with 1mM rosiglitazone, a PPARg agonist	activation	4 h	1 replicate each, differently activated macrophages	GSM411186	GSM411187
+PPAR	GSE16385c	primary IFNg/TNFa activated monocytes	treated with 1mM rosiglitazone, a PPARg agonist	activation	4 h	1 replicate each, differently activated macrophages	GSM411188	GSM411189
+PPAR	GSE16386a	primary IL4 activated monocytes	treated with 100 ng/ml rosiglitazone, a PPARg agonist	activation	6 h	2 replicates each, 2 donors	GSM411223,GSM411224	GSM411225,GSM411226
+PPAR	GSE16386b	primary IL4 activated monocytes	treated with 100 ng/ml rosiglitazone, a PPARg agonist	activation	6 h	2 replicates each, 2 donors	GSM411227,GSM411228	GSM411229,GSM411230
+PPAR	GSE17251a	primary hepatocytes	treated with 50µM Wy14643, a PPARa agonist	activation	6 h	1 replicate each, 6 donors	GSM432140	GSM432139
+PPAR	GSE17251b	primary hepatocytes	treated with 50µM Wy14643, a PPARa agonist	activation	6 h	1 replicate each, 6 donors	GSM432144	GSM432143
+PPAR	GSE17251c	primary hepatocytes	treated with 50µM Wy14643, a PPARa agonist	activation	6 h	1 replicate each, 6 donors	GSM432148	GSM432147
+PPAR	GSE17251d	primary hepatocytes	treated with 50µM Wy14643, a PPARa agonist	activation	6 h	1 replicate each, 6 donors	GSM432152	GSM432151
+PPAR	GSE17251e	primary hepatocytes	treated with 50µM Wy14643, a PPARa agonist	activation	6 h	1 replicate each, 6 donors	GSM432156	GSM432155
+PPAR	GSE17251f	primary hepatocytes	treated with 50µM Wy14643, a PPARa agonist	activation	6 h	1 replicate each, 6 donors	GSM432160	GSM432159
+PPAR	GSE25547	HepG2 cells	treated with 100nM GW7647, a PPARa agonist	activation	6 h	3 replicates each	GSM627985,GSM627986,GSM627987	GSM627988,GSM627989,GSM627990
+PPAR	GSE5258PPAR	MCF7 cells	treated with 10µM rosiglitazone, a PPARg agonist	activation	6 h	2 replicates each	GSM119067,GSM119103	GSM119249,GSM119206
+PPAR	GSE8658a	monocyte derived dendritic cells	treated with 1µM rosiglitazone, a PPARg agonist	activation	6 h	1 replicate each, 6 donors	GSM214750	GSM214751
+PPAR	GSE8658b	monocyte derived dendritic cells	treated with 1µM rosiglitazone, a PPARg agonist	activation	6 h	1 replicate each, 6 donors	GSM214752	GSM214753
+PPAR	GSE8658c	monocyte derived dendritic cells	treated with 1µM rosiglitazone, a PPARg agonist	activation	6 h	1 replicate each, 6 donors	GSM214754	GSM214755
+PPAR	GSE8658d	monocyte derived dendritic cells	treated with 1µM rosiglitazone, a PPARg agonist	activation	6 h	1 replicate each, 6 donors	GSM214756	GSM214763
+PPAR	GSE8658e	monocyte derived dendritic cells	treated with 1µM rosiglitazone, a PPARg agonist	activation	6 h	1 replicate each, 6 donors	GSM214764	GSM214766
+PPAR	GSE8658f	monocyte derived dendritic cells	treated with 1µM rosiglitazone, a PPARg agonist	activation	6 h	1 replicate each, 6 donors	GSM214767	GSM214769
+RAR	GSE14426a	pancreatic stellate cell line	treated with 1µM all-trans retinoid acid	activation	0.5 h	3 replicates each, part of time series, time resolved controls	GSM360282,GSM360283,GSM360284	GSM360285,GSM360286,GSM360287
+RAR	GSE14426b	pancreatic stellate cell line	treated with 1µM all-trans retinoid acid	activation	4 h	3 replicates each, part of time series, time resolved controls	GSM360288,GSM360289,GSM360290	GSM360291,GSM360292,GSM360293
+RAR	GSE14500a	HL60 neutrophil progenitor cells	treated with 1µM all-trans retinoid acid	activation	2 h	1 replicate each, part of time series, time respective control	GSM362155	GSM362143
+RAR	GSE14500b	HL60 neutrophil progenitor cells	treated with 1µM all-trans retinoid acid	activation	4 h	1 replicate each, part of time series, time respective control	GSM362156	GSM362144
+RAR	GSE19201	NB4 cells	treated with all-trans retinoid acid	activation	4 h	1 replicate each	GSM475993	GSM475994
+RAR	GSE22298a	primary epidermal karatinocytes	treated with 1µM all-trans retinoid acid	activation	1 h	1 replicate each, part of time series, time resolved controls	GSM555039	GSM555044
+RAR	GSE22298b	primary epidermal karatinocytes	treated with 1µM all-trans retinoid acid	activation	4 h	1 replicate each, part of time series, time resolved controls	GSM555040	GSM555045
+RAR	GSE24731	HL60 leukemia cells	treated with 100nM retinoid acid	activation	4 h	4 replicates each, contain control vector	GSM609174,GSM609175,GSM609176,GSM609177	GSM609185,GSM609186,GSM609187,GSM609188
+RAR	GSE29213	NB4 leukemia cells	treated with 10nM retinoid acid	activation	4 h	4 replicates each, contain control vector	GSM722534,GSM722535,GSM722536,GSM722537	GSM722538,GSM722539,GSM722540,GSM722541
+TGFb	GSE13837a1	primary synovial fibroblasts	treated with 10ng/ml TGF-beta	activation	1 h	1 replicate each, part of time series, several patients	GSM347191	GSM347194
+TGFb	GSE13837a2	primary synovial fibroblasts	treated with 10ng/ml TGF-beta	activation	2 h	1 replicate each, part of time series, several patients	GSM347191	GSM347197
+TGFb	GSE13837a3	primary synovial fibroblasts	treated with 10ng/ml TGF-beta	activation	4 h	1 replicate each, part of time series, several patients	GSM347191	GSM347330
+TGFb	GSE13837b1	primary synovial fibroblasts	treated with 10ng/ml TGF-beta	activation	1 h	1 replicate each, part of time series, several patients	GSM347340	GSM347733
+TGFb	GSE13837b2	primary synovial fibroblasts	treated with 10ng/ml TGF-beta	activation	2 h	1 replicate each, part of time series, several patients	GSM347340	GSM347734
+TGFb	GSE13837b3	primary synovial fibroblasts	treated with 10ng/ml TGF-beta	activation	4 h	1 replicate each, part of time series, several patients	GSM347340	GSM347735
+TGFb	GSE13837c1	primary synovial fibroblasts	treated with 10ng/ml TGF-beta	activation	1 h	1 replicate each, part of time series, several patients	GSM347799	GSM347765
+TGFb	GSE13837c2	primary synovial fibroblasts	treated with 10ng/ml TGF-beta	activation	2 h	1 replicate each, part of time series, several patients	GSM347799	GSM347766
+TGFb	GSE13837c3	primary synovial fibroblasts	treated with 10ng/ml TGF-beta	activation	4 h	1 replicate each, part of time series, several patients	GSM347799	GSM347767
+TGFb	GSE13837d1	primary synovial fibroblasts	treated with 10ng/ml TGF-beta	activation	1 h	1 replicate each, part of time series, several patients	GSM347845	GSM347841
+TGFb	GSE13837d2	primary synovial fibroblasts	treated with 10ng/ml TGF-beta	activation	2 h	1 replicate each, part of time series, several patients	GSM347845	GSM347842
+TGFb	GSE13837d3	primary synovial fibroblasts	treated with 10ng/ml TGF-beta	activation	4 h	1 replicate each, part of time series, several patients	GSM347845	GSM347843
+TGFb	GSE13837e1	primary synovial fibroblasts	treated with 10ng/ml TGF-beta	activation	1 h	1 replicate each, part of time series, several patients	GSM348030	GSM348024
+TGFb	GSE13837e2	primary synovial fibroblasts	treated with 10ng/ml TGF-beta	activation	2 h	1 replicate each, part of time series, several patients	GSM348030	GSM348027
+TGFb	GSE13837e3	primary synovial fibroblasts	treated with 10ng/ml TGF-beta	activation	4 h	1 replicate each, part of time series, several patients	GSM348030	GSM348028
+TGFb	GSE14491	MDA-MB-231 metastatic breast cell line	treated with 5µg/ml TGF-beta	activation	3 h	4 replicate each, transfected with shGFP	GSM361954,GSM361955,GSM361956,GSM361957	GSM361958,GSM361959,GSM361960,GSM361961
+TGFb	GSE1724	lung fibroblasts	treated with 4 ng/ml TGF-beta	activation	4 h	3 replicates each	GSM29911,GSM29915,GSM29918	GSM29913,GSM29916,GSM29919
+TGFb	GSE17708a	A549 lung carcinoma cell line	treated with 5ng/ml TGF-beta	activation	0.5 h	3 replicates each, part of time series	GSM442026,GSM442027,GSM442028	GSM442029,GSM442030,GSM442031
+TGFb	GSE17708b	A549 lung carcinoma cell line	treated with 5ng/ml TGF-beta	activation	1 h	3 replicates each, part of time series	GSM442026,GSM442027,GSM442028	GSM442032,GSM442033,GSM442034
+TGFb	GSE17708c	A549 lung carcinoma cell line	treated with 5ng/ml TGF-beta	activation	2 h	3 replicates each, part of time series	GSM442026,GSM442027	GSM442035,GSM442036
+TGFb	GSE17708d	A549 lung carcinoma cell line	treated with 5ng/ml TGF-beta	activation	4 h	3 replicates each, part of time series	GSM442026,GSM442027,GSM442028	GSM442037,GSM442038,GSM442039
+TGFb	GSE17860	osteoblast cell line	treated with 10ng/ml TGF-beta	activation	6 h	3 replicates each	GSM445699,GSM445701,GSM445703	GSM445698,GSM445700,GSM445702
+TGFb	GSE1802a	human umbilical cord blood CD34+ cells	treated with TGF-beta	activation	2 h	3 replicates each, part of time series	GSM31092,GSM31093,GSM31094	GSM31096,GSM31097,GSM31098
+TGFb	GSE1802b	human umbilical cord blood CD34+ cells	treated with TGF-beta	activation	4 h	4 replicates each, part of time series	GSM31092,GSM31093,GSM31094,GSM31094	GSM31099,GSM31100,GSM31101,GSM31102
+TGFb	GSE1805a	M091	treated with 10 ng/ml TGF-beta	activation	2 h	3 replicates each, part of time series	GSM31117,GSM31119,GSM31120	GSM31122,GSM31123,GSM31124
+TGFb	GSE1805b	M091	treated with TGF-beta	activation	4 h	2 replicates each, part of time series	GSM31117,GSM31119	GSM31126,GSM31127
+TGFb	GSE23935a	primary glioblastoma	treated with LY2109761, TGF-beta receptor inhibitor	inhibition	3 h	1 replicate each	GSM589933	GSM589934
+TGFb	GSE23935b	primary glioblastoma	treated with LY2109761, TGF-beta receptor inhibitor	inhibition	3 h	1 replicate each	GSM589935	GSM589936
+TGFb	GSE23935c	primary glioblastoma	treated with LY2109761, TGF-beta receptor inhibitor	inhibition	3 h	1 replicate each	GSM589937	GSM589938
+TGFb	GSE23935d	primary glioblastoma	treated with LY2109761, TGF-beta receptor inhibitor	inhibition	3 h	1 replicate each	GSM589939	GSM589940
+TGFb	GSE23935e	primary glioblastoma	treated with LY2109761, TGF-beta receptor inhibitor	inhibition	3 h	1 replicate each	GSM589941	GSM589942
+TGFb	GSE23935f	primary glioblastoma	treated with LY2109761, TGF-beta receptor inhibitor	inhibition	3 h	1 replicate each	GSM589943	GSM589944
+TGFb	GSE23935g	primary glioblastoma	treated with LY2109761, TGF-beta receptor inhibitor	inhibition	3 h	1 replicate each	GSM589945	GSM589946
+TGFb	GSE23935h	primary glioblastoma	treated with LY2109761, TGF-beta receptor inhibitor	inhibition	3 h	1 replicate each	GSM589947	GSM589948
+TGFb	GSE23935i	primary glioblastoma	treated with LY2109761, TGF-beta receptor inhibitor	inhibition	3 h	1 replicate each	GSM589949	GSM589950
+TGFb	GSE23935j	primary glioblastoma	treated with LY2109761, TGF-beta receptor inhibitor	inhibition	3 h	1 replicate each	GSM589951	GSM589952
+TGFb	GSE23935k	primary glioblastoma	treated with LY2109761, TGF-beta receptor inhibitor	inhibition	3 h	1 replicate each	GSM589953	GSM589954
+TGFb	GSE27526	A2780	treated with 10ng/ml TGF-beta1	activation	3 h	3 replicates each	GSM687585,GSM687586,GSM687587	GSM687582,GSM687583,GSM687584
+TGFb	GSE28590	HepG2 hepatoblastoma cells	treated with 3ng/ml TGF-beta	activation	1.5 h	1 replicate each	GSM707672	GSM707673
+TGFb	GSE30004a	primary vascular smooth muscle cells	treated with 1ng/ml TGF-beta	activation	6 h	3 replicates each	GSM742529,GSM742533,GSM742537	GSM742517,GSM742521,GSM742525
+TGFb	GSE30004b	primary vascular smooth muscle cells	treated with 1ng/ml TGF-beta	activation	6 h	3 replicates each	GSM742530,GSM742534,GSM742538	GSM742518,GSM742522,GSM742526
+TGFb	GSE30004c	primary vascular smooth muscle cells	treated with 1ng/ml TGF-beta	activation	6 h	3 replicates each	GSM742531,GSM742535,GSM742539	GSM742519,GSM742523,GSM742527
+TGFb	GSE5150a	CD34+ hematopoietic stem/progenitor cells	treated with TGF-beta	activation	2 h	1 replicate each, part of time series	GSM116315	GSM116316
+TGFb	GSE5150b	CD34+ hematopoietic stem/progenitor cells	treated with TGF-beta	activation	4 h	1 replicate each, part of time series	GSM116315	GSM116317
+TGFb	GSE5151	dendritic cells	treated with 10 ng/ml TGF-beta1	activation	4 h	1 replicate	GSM116323	GSM116324
+TGFb	GSE6653a	IOSE - immortalized ovarian surface epithelial cells	treated with TGF-beta1	activation	3 h	2 replicates each, part of time series	GSM154124,GSM154125	GSM154126,GSM154127
+TGFb	GSE6653b	IOSE - immortalized ovarian surface epithelial cells	treated with TGF-beta1	activation	6 h	2 replicates each, part of time series	GSM154124,GSM154125	GSM154128,GSM154129
+TGFb	GSE8730a	odontoblasts	treated with TGF-beta1	activation	1 h	1 replicate	GSM216537	GSM216538
+TGFb	GSE8730b	pulp tissue	treated with TGF-beta1	activation	1 h	1 replicate, part of time series	GSM216541	GSM216546
+TGFb	GSE8730c	pulp tissue	treated with TGF-beta1	activation	5 h	1 replicate, part of time series	GSM216543	GSM216547
+TNFa	GSE11115	U3OS cells expressing additional estrogen receptor	treated with TNFa	activation	1h h	3-4 replicates each, doxycyline induction of ER expression	GSM280387,GSM280388,GSM280389	GSM280379,GSM280380,GSM280381,GSM280382
+TNFa	GSE13206a	HeLa cells	treated with 5 ng/ml TNFa	activation	1.5 h	1 replicate each, part of time series, shControl transfected	GSM333597	GSM333591
+TNFa	GSE13206b	HeLa cells	treated with 5 ng/ml TNFa	activation	6 h	1 replicate each, part of time series, shControl transfected	GSM333597	GSM333594
+TNFa	GSE13837a	synovial fibroblasts, female, age 65, rheumatoid arthritis	treated with TNFa 10 ng/ml	activation	1 h	always compared to the 0 h time point	GSM347191,GSM347193	GSM347196
+TNFa	GSE13837b	synovial fibroblasts, female, age 65, rheumatoid arthritis	treated with TNFa 10 ng/ml	activation	2 h	always compared to the 0 h time point	GSM347191,GSM347193	GSM347328
+TNFa	GSE13837c	synovial fibroblasts, female, age 65, rheumatoid arthritis	treated with TNFa 10 ng/ml	activation	4 h	always compared to the 0 h time point	GSM347191,GSM347193	GSM347332
+TNFa	GSE13837d	synovial fibroblasts, male, age 56, osteoarthritis	treated with TNFa 10 ng/ml	activation	1 h	always compared to the 0 h time point	GSM347340,GSM347342	GSM347737
+TNFa	GSE13837e	synovial fibroblasts, male, age 56, osteoarthritis	treated with TNFa 10 ng/ml	activation	2 h	always compared to the 0 h time point	GSM347340,GSM347342	GSM347738
+TNFa	GSE13837f	synovial fibroblasts, male, age 56, osteoarthritis	treated with TNFa 10 ng/ml	activation	4 h	always compared to the 0 h time point	GSM347340,GSM347342	GSM347739
+TNFa	GSE13837g	synovial fibroblasts, male, age 65, osteoarthritis	treated with TNFa 10 ng/ml	activation	1 h	always compared to the 0 h time point	GSM347764,GSM347745	GSM347746
+TNFa	GSE13837h	synovial fibroblasts, male, age 65, osteoarthritis	treated with TNFa 10 ng/ml	activation	2 h	always compared to the 0 h time point	GSM347764,GSM347745	GSM347747
+TNFa	GSE13837i	synovial fibroblasts, male, age 65, osteoarthritis	treated with TNFa 10 ng/ml	activation	4 h	always compared to the 0 h time point	GSM347764,GSM347745	GSM347748
+TNFa	GSE13837j	synovial fibroblasts, female, age 57, osteoarthritis	treated with TNFa 10 ng/ml	activation	1 h	always compared to the 0 h time point	GSM347799,GSM347840	GSM347819
+TNFa	GSE13837k	synovial fibroblasts, female, age 57, osteoarthritis	treated with TNFa 10 ng/ml	activation	2 h	always compared to the 0 h time point	GSM347799,GSM347840	GSM347837
+TNFa	GSE13837l	synovial fibroblasts, female, age 57, osteoarthritis	treated with TNFa 10 ng/ml	activation	4 h	always compared to the 0 h time point	GSM347799,GSM347840	GSM347838
+TNFa	GSE13837m	synovial fibroblasts, female, age 57, rheumatoid arthritis	treated with TNFa 10 ng/ml	activation	1 h	always compared to the 0 h time point	GSM347845,GSM348023	GSM348017
+TNFa	GSE13837n	synovial fibroblasts, female, age 57, rheumatoid arthritis	treated with TNFa 10 ng/ml	activation	2 h	always compared to the 0 h time point	GSM347845,GSM348023	GSM348018
+TNFa	GSE13837o	synovial fibroblasts, female, age 57, rheumatoid arthritis	treated with TNFa 10 ng/ml	activation	4 h	always compared to the 0 h time point	GSM347845,GSM348023	GSM348020
+TNFa	GSE13837p	synovial fibroblasts, female, age 67, rheumatoid arthritis	treated with TNFa 10 ng/ml	activation	1 h	always compared to the 0 h time point	GSM348030,GSM348037	GSM348031
+TNFa	GSE13837q	synovial fibroblasts, female, age 67, rheumatoid arthritis	treated with TNFa 10 ng/ml	activation	2 h	always compared to the 0 h time point	GSM348030,GSM348037	GSM348034
+TNFa	GSE13837r	synovial fibroblasts, female, age 67, rheumatoid arthritis	treated with TNFa 10 ng/ml	activation	4 h	always compared to the 0 h time point	GSM348030,GSM348037	GSM348035
+TNFa	GSE1474a	CaCo-2 (Colon cell line)	treated with TNFa	activation	4 h	3 replicates each	GSM24832,GSM24833,GSM24834	GSM24841,GSM24842,GSM24843
+TNFa	GSE1474b	T84	treated with TNFa	activation	4 h	3 replicates each	GSM24844,GSM24845,GSM24846	GSM24853,GSM24854,GSM24855
+TNFa	GSE1541a	A549 (Alveolar Epithelial Cells line)	treated with TNFa 20 ng/ml	activation	1 h		GSM26477,GSM26478	GSM26489,GSM26490
+TNFa	GSE1541b	A549 (Alveolar Epithelial Cells line)	treated with TNFa 20 ng/ml	activation	4 h		GSM26479,GSM26480	GSM26491,GSM26492
+TNFa	GSE16251aTNFa	primary PBMCs	treated with TNFa	activation	0.5 h	1 replicate each, part of time series, time respective control	GSM409180	GSM409184
+TNFa	GSE16251bTNFa	primary PBMCs	treated with TNFa	activation	1 h	1 replicate each, part of time series, time respective control	GSM409182	GSM409140
+TNFa	GSE16251cTNFa	primary PBMCs	treated with TNFa	activation	4 h	1 replicate each, part of time series, time respective control	GSM409178	GSM409174
+TNFa	GSE16650	Beas-B2 (Human Bronchial Epithelial Cells)	treated with TNFa 20 ng/ml	activation	4 h	2 replicates each	GSM417770,GSM417776	GSM417774,GSM417780
+TNFa	GSE21727TNFa	trabecular bone cells	treated with TNFa	activation	2 h	3 replicates each, time respective control	GSM542107,GSM542108,GSM542109	GSM542104,GSM542105,GSM542106
+TNFa	GSE22807	DU145 prostate cancer cells	treated with 10 ng/ml TNFa	activation	1.5 h	2 replicates each	GSM563798,GSM563799	GSM563802,GSM563803
+TNFa	GSE2489a	Epidermis Keratinocytes	treated with TNFa	activation	1 h		GSM47302,GSM47304	GSM47311
+TNFa	GSE2489b	Epidermis Keratinocytes	treated with TNFa	activation	4 h		GSM47305,GSM47306	GSM47312
+TNFa	GSE2624a	human cervical epithelioid carcinoma cell line HeLa expressing tTA pBI-EGFP- IkBa Mut	treated with TNFa 25ng/ml and Doxycyline (2 mg/ml) to take IKB-inhibition away	activation	1 h	mutant cell line	GSM50301,GSM50310,GSM50319,GSM50327	GSM50302,GSM50312,GSM50320,GSM50328
+TNFa	GSE2624b	human cervical epithelioid carcinoma cell line HeLa expressing tTA pBI-EGFP- IkBa Mut	treated with TNFa 25ng/ml and Doxycyline (2 mg/ml) to take IKB-inhibition away	activation	3 h	mutant cell line	GSM50301,GSM50310,GSM50319,GSM50327	GSM50304,GSM50313,GSM50321,GSM50329
+TNFa	GSE2638	HMECs	treated with 2ng/ml TNFa	activation	5 h	3 replicates each	GSM50771,GSM50772,GSM50773	GSM50774,GSM50775,GSM50776
+TNFa	GSE2639	HUVECs	treated with 2ng/ml TNFa	activation	5 h	4 replicates each	GSM50777,GSM50778,GSM50779,GSM50780	GSM50781,GSM50782,GSM50783,GSM50784
+TNFa	GSE26868a	HeLa cells	treated with 10 ng/ml TNFa	activation	2 h	2 replicates each, comparison 2 cell lines	GSM661462,GSM661463	GSM661464,GSM661465
+TNFa	GSE26868b	THP1 cells	treated with 10 ng/ml TNFa	activation	2 h	3 replicates each, comparison 2 cell lines	GSM661466,GSM661467,GSM661468	GSM661469,GSM661470,GSM661471
+TNFa	GSE28548	HEK293 cells	treated with TNFa	activation	1 h	3 replicates each	GSM707024,GSM707025,GSM707026	GSM707027,GSM707028,GSM707029
+TNFa	GSE516	human arthritic synoviocytes	treated with TNFa	activation	4 h		GSM7735	GSM7736
+TNFa	GSE8166		treated with TNFa 1ng/ml cultured in M199 medium	activation	3 h		GSM202176	GSM202183
+TNFa	GSE9055a	HUVEC (Human umbilical vein cells)	treated with TNFa 10 ng/ml after 18 h serum starvation	activation	0.5 h	time series every 15 min until 8 h	GSM229941	GSM229910
+TNFa	GSE9055b	HUVEC (Human umbilical vein cells)	treated with TNFa 10 ng/ml after 18 h serum starvation	activation	1 h	time series every 15 min until 8 h	GSM229941	GSM229912
+TNFa	GSE9055c	HUVEC (Human umbilical vein cells)	treated with TNFa 10 ng/ml after 18 h serum starvation	activation	2 h	time series every 15 min until 8 h	GSM229941	GSM229916
+TNFa	GSE9055d	HUVEC (Human umbilical vein cells)	treated with TNFa 10 ng/ml after 18 h serum starvation	activation	4 h	time series every 15 min until 8 h	GSM229941	GSM229924
+Trail	GSE32441a	HT1080 fibrosarcoma cells	treated with 50 ng/ml TRAIL	activation	6 h	1 replicate each, control and treated cells were additionally treated with 0.25 µg/ml doxorubicin	GSM802717	GSM802719
+Trail	GSE32441b	HT1080 fibrosarcoma cells	treated with 50 ng/ml TRAIL	activation	6 h	1 replicate each, control and treated cells were additionally treated with 4 µg/ml trabectedin	GSM802713	GSM802715
+Trail	GSE32441c	HT1080 fibrosarcoma cells	treated with 50 ng/ml TRAIL	activation	6 h	1 replicate each, control and treated cells were additionally treated with 1.5 µg/ml mafosfamide	GSM802721	GSM802723
+Trail	GSE8346	T4-2 breat epithelial cells	treated with 1 µg/ml TRAIL	activation	4 h	4 replicates each, contain control vector, 3D culture	GSM206809,GSM206827,GSM206828,GSM206829	GSM206834,GSM206835,GSM206836,GSM206837
+VEGF	GSE10778aVEGF	HUVEC (human umbilical vein endothelial cells)	treatment with 100ng VEGF	activation	30 min	time series (0.5, 1, 2.5, 6 h), 2 Chips HG-U133A and B	GSM272113	GSM272114
+VEGF	GSE10778bVEGF	HUVEC (human umbilical vein endothelial cells)	treatment with 100ng VEGF	activation	1 h	time series (0.5, 1, 2.5, 6 h), 2 Chips HG-U133A and B	GSM272113	GSM272115
+VEGF	GSE10778cVEGF	HUVEC (human umbilical vein endothelial cells)	treatment with 100ng VEGF	activation	2.5 h	time series (0.5, 1, 2.5, 6 h), 2 Chips HG-U133A and B	GSM272113	GSM272116
+VEGF	GSE10778d	HUVEC (human umbilical vein endothelial cells)	treatment with 100ng VEGF	activation	30 min	time series (0.5, 1, 2.5, 6 h), 2 Chips HG-U133A and B	GSM272122	GSM272123
+VEGF	GSE10778e	HUVEC (human umbilical vein endothelial cells)	treatment with 100ng VEGF	activation	1 h	time series (0.5, 1, 2.5, 6 h), 2 Chips HG-U133A and B	GSM272122	GSM272124
+VEGF	GSE10778f	HUVEC (human umbilical vein endothelial cells)	treatment with 100ng VEGF	activation	2.5 h	time series (0.5, 1, 2.5, 6 h), 2 Chips HG-U133A and B	GSM272122	GSM272125
+VEGF	GSE11228a	LEC (Human dermal lymphatic endothelial cells)	treatment with VEGF-A165 (20ng/ml)	activation	1 h	time series (1, 4, 8, 24 h)	GSM283080,GSM283081,GSM283082	GSM283083,GSM283084,GSM283085
+VEGF	GSE11228b	LEC (Human dermal lymphatic endothelial cells)	treatment with VEGF-A165 (20 ng/ml)	activation	4 h	time series (1, 4, 8, 24 h)	GSM283080,GSM283081,GSM283082	GSM283086,GSM283087,GSM283088
+VEGF	GSE11228c	LEC (Human dermal lymphatic endothelial cells)	treatment with VEGF-C (500 ng/ml)	activation	1 h	time series (1, 4, 8, 24 h)	GSM283080,GSM283081,GSM283082	GSM283095,GSM283096,GSM283097
+VEGF	GSE11228d	LEC (Human dermal lymphatic endothelial cells)	treatment with VEGF-C (500 ng/ml)	activation	4 h	time series (1, 4, 8, 24 h)	GSM283080,GSM283081,GSM283082	GSM283098,GSM283099,GSM283100
+VEGF	GSE15464a	HUVECs	treated with 100ng/ml VEGF-A165	activation	30 min	1 replicate, part of time series	GSM385333	GSM385338
+VEGF	GSE15464b	HUVECs	treated with 100ng/ml VEGF-A165	activation	60 min	1 replicate, part of time series	GSM385333	GSM385350
+VEGF	GSE15464c	HUVECs	treated with 100ng/ml VEGF-A165	activation	150 min	1 replicate, part of time series	GSM385333	GSM385353
+VEGF	GSE17777	HMVECs	treated with 100pg/ml VEGF	activation	4 h	1 replicate	GSM443878	GSM443879
+VEGF	GSE18913a	HUVECs	treated with VEGF	activation	1 h	3 replicates, part of time series	GSM468603,GSM468604,GSM468621	GSM468609,GSM468610,GSM468622
+VEGF	GSE18913b	HUVECs	treated with VEGF	activation	4 h	3 replicates, part of time series	GSM468603,GSM468604,GSM468621	GSM468615,GSM468616,GSM468623
+VEGF	GSE19335	HUVECs	treated with 50ng/ml VEGF	activation	30 min	2 replicates	GSM595674,GSM595675	GSM595676,GSM595677
+VEGF	GSE3891a	HMVEC (Human microvascular endothelial cells)	VEGF treatment	activation	30 min	time series 30 min, 1, 2, 4 h	GSM88897	GSM88898
+VEGF	GSE3891b	HMVEC (Human microvascular endothelial cells)	VEGF treatment	activation	1 h	time series 30 min, 1, 2, 4 h	GSM88897	GSM88899
+VEGF	GSE3891c	HMVEC (Human microvascular endothelial cells)	VEGF treatment	activation	2 h	time series 30 min, 1, 2, 4 h	GSM88897	GSM88900
+VEGF	GSE3891d	HMVEC (Human microvascular endothelial cells)	VEGF treatment	activation	4 h	time series 30 min, 1, 2, 4 h	GSM88897	GSM88901
+VEGF	GSE3891e	HMVEC (Human microvascular endothelial cells)	VEGF treatment	activation	30 min	time series 30 min, 1, 2, 4 h	GSM88907	GSM88908
+VEGF	GSE3891f	HMVEC (Human microvascular endothelial cells)	VEGF treatment	activation	1 h	time series 30 min, 1, 2, 4 h	GSM88907	GSM88909
+VEGF	GSE3891g	HMVEC (Human microvascular endothelial cells)	VEGF treatment	activation	2 h	time series 30 min, 1, 2, 4 h	GSM88907	GSM88910
+VEGF	GSE3891h	HMVEC (Human microvascular endothelial cells)	VEGF treatment	activation	4 h	time series 30 min, 1, 2, 4 h	GSM88907	GSM88911
+VEGF	GSE837a	HUVECs	treated with VEGF	activation	4 h	1 replicate, part of 3 different isolates	GSM12900	GSM12901
+VEGF	GSE837b	HUVECs	treated with VEGF	activation	4 h	1 replicate, part of 3 different isolates	GSM12902	GSM12903
+VEGF	GSE837c	HUVECs	treated with VEGF	activation	4 h	1 replicate, part of 3 different isolates	GSM12904	GSM12905
+Wnt	GSE106755a	human fetal liver progenitor cells	100ng/ml Wnt3a	activation	12 h	arrays are background corrected thus containing zeros!!!!	GSM2849887,GSM2849888,GSM2849889	GSM2849890,GSM2849891,GSM2849892
+Wnt	GSE106755b	SV40-large T -immortalized human fetal liver cells	100ng/ml Wnt3a	activation	12 h	arrays are background corrected thus containing zeros!!!!	GSM2849896,GSM2849897,GSM2849898	GSM2849899,GSM2849900,GSM2849901
+Wnt	GSE114059	colorectal cancer organoid PTO 19T	Wnt signalling inhibitor PRI-724	inhibition	72 h	2 replicates each, Control is MEKi Trametinib supposedly inducing wnt signalling, Treatment is MEKi+Wnti	GSM3131706,GSM3131707	GSM3131708,GSM3131709
+Wnt	GSE11916	Huh7 (hepatocellular carcinoma derived)	High TCF activity Huh7 cell line was compared to control Huh7 cell line (TCF the crucial transcription factor for Wnt)	activation	not specified	constitutive activation	GSM301104,GSM301105,GSM301106	GSM301119,GSM301132,GSM301133
+Wnt	GSE14107a	parental PC9 (Lung adenocarcinoma cell line)	Wnt3a stimulation after serum starvation (0.2 %)	activation	3 h		GSM354009,GSM354010	GSM354011,GSM354012
+Wnt	GSE14107b	parental H2030 (Lung adenocarcinoma cell line)	Wnt3a stimulation after serum starvation (0.2 %)	activation	3 h		GSM354017,GSM354018	GSM354019,GSM354020
+Wnt	GSE1473	HEK293 (kidney cell)	infected with RCAS-beta-cateninS37A or RCAS-GFP	activation	not specified	late and early response expected	GSM24862,GSM24863,GSM24864,GSM24865	GSM24858,GSM24859,GSM24860,GSM24861
+Wnt	GSE18560	colorectal cancer cell line Ls174T	siRNA-mediated knockdown of beta-Catenin	inhibition	72 h	3 replicates each	GSM461951,GSM461953,GSM461944	GSM461942,GSM461947,GSM461949
+Wnt	GSE26351	mobilized periphal blood CD34+ cells	0.5 µM BIO (GSK3 inhibitor)	activation	2 h	3 replicates, BIO activates WNT pathway	GSM647150,GSM647151,GSM647152	GSM647153,GSM647154,GSM647155
+Wnt	GSE27313	mesenchymal stem cells	treated with Wnt3a	activation	6 h	1 replicate each	GSM675170	GSM675171
+Wnt	GSE35272	Colorectal cancer cell line DLD-1	DKK1 overexpression (Wnt ligand antagonist)	inhibition	24 h	3 replicates	GSM864825,GSM864826,GSM864827	GSM864828,GSM864829,GSM864830
+Wnt	GSE37964	Colorectal cell line DLD-1	dominant negative TCF-1E inducible expression controlled by 1µg/ml Doxycyclin	inhibition	8 h	3-4 replicates	GSM931041,GSM931042,GSM931043,GSM931044	GSM931035,GSM931036,GSM931037
+Wnt	GSE38893	MDA-MB-468 Breast cancer cell line	Wnt3a	activation	8 h	2 replicates	GSM951573,GSM951579	GSM951576,GSM951582
+Wnt	GSE42071	Megacaryocytic cells CHRF-288-11 (Childhood acute megakaryoblastic leukemia)	Wnt3a	activation	8 h	3 replicates	GSM1031987,GSM1031980,GSM1031981	GSM1031986,GSM1031978,GSM1031983
+Wnt	GSE44097a	Colorectal cancer cell line SW480	beta-catenin siRNA	inhibition	48 h	3 replicates, also second cell line measured	GSM1078893,GSM1078894,GSM1078895	GSM1078896,GSM1078897,GSM1078898
+Wnt	GSE44097b	Colorectal cancer cell line DLD1	beta-catenin siRNA	inhibition	48 h	3 replicates, also second cell line measured	GSM1078887,GSM1078888,GSM1078889	GSM1078890,GSM1078891,GSM1078892
+Wnt	GSE46465a	liver cancer cell line HepG2	expression of dominant negative form of TCF4	inhibition	48 h	4 replicates, second cell line measured by same lab	GSM1130672,GSM1130673,GSM1130674,GSM1130675	GSM1130676,GSM1130677,GSM1130678,GSM1130679
+Wnt	GSE46465b	colon cancer cell line LS174T	expression of dominant negative form of TCF4	inhibition	48 h	3 replicates, second cell line measured by same lab	GSM1130666,GSM1130667,GSM1130668	GSM1130669,GSM1130670,GSM1130671
+Wnt	GSE56896	colorectal cancer cell line LS174T	expressed a tamoxifen-inducible β-catenin-binding domain of TCF4 (dominant negative)	inhibition	36 h	3 replicates each	GSM1370840,GSM1370841,GSM1370842	GSM1370843,GSM1370844,GSM1370845
+Wnt	GSE58525	Glioblastoma cell line LN-229	Wnt Inhibitory Factor 1 (WIF1) overexpression	inhibition	48 h	2 replicates	GSM1412991,GSM1412992	GSM1412993,GSM1412994
+Wnt	GSE59400	memory T cells stimulated with antiCD3/CD28	3µM TWS119 (GSK3-beta inhibitor)	activation		agilent single colour array, no paper published	GSM1436334,GSM1436335,GSM1436336	GSM1436331,GSM1436332,GSM1436333
+Wnt	GSE61275	AML cells OCI-AML	100-200nM BC2059 (beta Catenin antagonist)	inhibition	8 h	no replicate	GSM1501289	GSM1501288
+Wnt	GSE61687	Gastric cancer cell line AGS	beta-Catenin siRNA	inhibition	48 h	3 replicates, no paper, same lab as GSE62060	GSM1511325,GSM1511326,GSM1511327	GSM1511328,GSM1511329,GSM1511330
+Wnt	GSE62060	Gastric cancer cell line YCC3	beta-Catenin siRNA	inhibition	48 h	3 replicates, no paper	GSM1519062,GSM1519063,GSM1519064	GSM1519065,GSM1519066,GSM1519067
+Wnt	GSE65238a	Triple negative breast cancer cell MDA_MB-468	Wnt3a	activation	6 h	3 replicates	GSM1590550,GSM1590562,GSM1590574	GSM1590551,GSM1590563,GSM1590575
+Wnt	GSE65238b	Triple negative breast cancer cell MDA_MB-468	Wnt3a	activation	12 h	3 replicates	GSM1590552,GSM1590564,GSM1590576	GSM1590553,GSM1590565,GSM1590577
+Wnt	GSE65238c	Triple negative breast cancer cell HCC38	Wnt3a	activation	6 h	3 replicates	GSM1590556,GSM1590568,GSM1590580	GSM1590557,GSM1590569,GSM1590581
+Wnt	GSE65238d	Triple negative breast cancer cell HCC38	Wnt3a	activation	12 h	3 replicates	GSM1590558,GSM1590570,GSM1590582	GSM1590559,GSM1590571,GSM1590583
+Wnt	GSE67571a	lung cancer cell line A549 LM (Spheres transferred to adhesive tissue culture)	Wnt3a	activation	24 h	no replicate	GSM1649833	GSM1649834
+Wnt	GSE67571b	lung cancer cell line A549 sphere HM20 selected 20 times for invasiveness	Wnt3a	activation	24 h	no replicate	GSM1649835	GSM1649836
+Wnt	GSE97625	human embryonic stem cells	5µM GSK3-ß inhibitor CHIR99021	activation	4 h	no replicates, arrays are background corrected thus containing zeros!!!!	GSM2573320	GSM2573322

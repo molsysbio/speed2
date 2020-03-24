@@ -1,0 +1,16 @@
+citHeader("To cite speed2 in publications use:")
+
+citEntry(
+  entry    = "Article",
+  title    =  "{{D}iscovering causal signaling pathways through gene-expression patterns}" ,
+  author   = "Parikh, J. R.  and Klinger, B.  and Xia, Y.  and Marto, J. A.  and Blüthgen, N. ",
+  journal  = "Nucleic Acids Res.",
+  year     = "2010",
+  volume   = "38",
+  number   = "Web Server issue",
+  pages    = "W109--117",
+  month      = "Jul",
+  textVersion = paste(
+
+  )
+)
