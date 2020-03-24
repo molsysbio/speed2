@@ -1,0 +1,59 @@
+---
+title: "Introduction to speed2"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Introduction to speed2}
+  %\VignetteEngine{knitr::rmarkdown}
+  \usepackage[utf8]{inputenc}
+---
+
+```{r, echo = FALSE, message = FALSE}
+knitr::opts_chunk$set(collapse = T, comment = "#>")
+options(tibble.print_min = 4L, tibble.print_max = 4L)
+library(dplyr)
+set.seed(1014)
+```
+This R-package contains human signalling pathway signatures, and allows to perform enrichment analysis. The same data and methodology is used on the [speed-2 webserver](https://speed2.sys-bio.net), and described in Rydenfelt et al, Nucleic Acids Research, 2020. 
+
+### Typical Use 
+
+The typical use case is that the user has a list of differentially expressed genes and wants to understand which pathway is causal. Performing such a speed2 analysis is then very simple: Load Library, define the set of differentially expressed genes either as gene IDs or gene symbols, and then call speed2run. 
+```{r}
+library(speed2)
+testset=c(3726,2920,467,4792,7128,5743,2919,8870,9308,6364,2921,23764,4791,7127,1839,1316,330,5329,7538,3383,3725,1960,3553,597,23645,80149,6648,4929,3552,5971,7185,7832,1843,1326,2114,2152,6385,1958,3569,7124,23135,4790,3976,5806,8061,3164,182,6351,2643,6347,1827,1844,10938,9592,5966,8837,8767,4794,8013,22822,51278,8744,2669,1647,3627,10769,8553,1959,9021,11182,5734,1847,5055,4783,5054,10221,25976,5970,329,6372,9516,7130,960,3624,5328,4609,3604,6446,10318,10135,2355,10957,3398,969,3575,1942,7262,5209,6352,79693,3460,8878,10950,4616,8942,50486,694,4170,7422,5606,1026,3491,10010,3433,3606,7280,3659,2353,4973,388,374,4814,65986,8613,9314,6373,6303,1435,1880,56937,5791,7097,57007,7071,4082,3914,1051,9322,2150,687,3949,7050,127544,55332,2683,11080,1437,5142,8303,5341,6776,23258,595,23586,8877,941,25816,57018,2526,9034,80176,8848,9334,150094,23529,4780,2354,5187,10725,490,3593,3572,9120,19,3280,604,8660,6515,1052,51561,4088,6890,9242,64135,3601,79155,602,24145,24147,1906,10209,650,1846,10611,23308,9945,10365,3371,5271,4084)
+ret = speed2run(testset)
+ret
+
+```
+
+
+The function speed2run returns a list with four elements:
+
+*  `df_stattest`: a tibble with enrichment scores, 
+*  `df_rankcoords`: coordinates for GSEA plot (this is required only for plotting using speed2plot, see below)
+*  `unknown_items_geneset`: supplied genes that are ignored because they are not in the data base (such as wrong gene symbols)
+*  `unknown_items_backgrund`: supplied genes in the background set that are ignored because they are not in the data base (such as wrong gene symbols)
+ 
+`df_stattest` contains six columns: 
+
+*   speed2: name of the pathway
+*   p_ztest: p-value of the z-test (see above)
+*   ztest_reg: direction of regulation (UP or DOWN)
+*   p_chi2test: p-value of the chi2 test
+*   mean_rank: Mean rank of the tested genes in the signature (ranks are normalised to the interval -1 to 1). Is the effect size for the z-test.
+*   chi2TestStatistic: Variance of ranks compared to variance in a uniform rank distribution.
+
+### Which test to use
+
+Speed2 uses two tests (against a uniform rank distribution): z-test or the chi2 test. Briefly, the z-test tests if the supplied genes have ranks in the signature that are shifted to one direction, and the chi2 test tests if the rank variance is increased, for example if the supplied genes cluster at the end of the rank distribution. Therefore, it depends on the use-case which one is more appropriate. As a rule of thump: If the supplied gene list contains genes that are either only up-regulated or only down-regulated, one should use the z-test. If the supplied list contains both up- and down-regulated genes, then one should select the chi2-test. 
+
+### Plotting the results
+
+To plot the results, pass `ret$df_stattest`, `ret$df_rankcoords` to speed2plot, and select the test that you want to use:
+
+```{r fig.width=6, fig.height=6}
+gg = speed2plot(ret$df_stattest, ret$df_rankcoords, test="chi2")
+gg
+```
+
+
