@@ -2,15 +2,11 @@ citHeader("To cite speed2 in publications use:")
 
 citEntry(
   entry    = "Article",
-  title    =  "{{D}iscovering causal signaling pathways through gene-expression patterns}" ,
-  author   = "Parikh, J. R.  and Klinger, B.  and Xia, Y.  and Marto, J. A.  and Blüthgen, N. ",
+  title    =  "SPEED2: inferring upstream pathway activity from differential gene expression" ,
+  author   = "Mattias Rydenfelt and Bertram Klinger and Martina Klüneman and, Nils Blüthgen",
   journal  = "Nucleic Acids Res.",
-  year     = "2010",
-  volume   = "38",
+  year     = "2020",
   number   = "Web Server issue",
-  pages    = "W109--117",
-  month      = "Jul",
-  textVersion = paste(
-
-  )
+  pages    = "gkaa236",
+  doi	= "https://doi.org/10.1093/nar/gkaa236"
 )
